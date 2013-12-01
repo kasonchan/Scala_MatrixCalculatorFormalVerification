@@ -1,0 +1,1515 @@
+12-01 13:56:48.294: D/dalvikvm(1021): GC_FOR_ALLOC freed 367K, 17% free 2653K/3176K, paused 59ms, total 62ms
+12-01 13:56:48.854: D/dalvikvm(1021): GC_FOR_ALLOC freed 536K, 21% free 2631K/3324K, paused 41ms, total 43ms
+12-01 13:56:49.354: D/dalvikvm(1021): GC_FOR_ALLOC freed 490K, 21% free 2653K/3324K, paused 41ms, total 43ms
+12-01 13:56:49.885: D/dalvikvm(1021): GC_FOR_ALLOC freed 522K, 21% free 2642K/3324K, paused 42ms, total 44ms
+12-01 13:56:50.364: D/dalvikvm(1021): GC_FOR_ALLOC freed 499K, 21% free 2655K/3324K, paused 42ms, total 44ms
+12-01 13:56:50.884: D/dalvikvm(1021): GC_FOR_ALLOC freed 490K, 20% free 2676K/3324K, paused 43ms, total 45ms
+12-01 13:56:51.334: D/dalvikvm(1021): GC_FOR_ALLOC freed 490K, 20% free 2696K/3344K, paused 41ms, total 43ms
+12-01 13:56:51.793: D/dalvikvm(1021): GC_FOR_ALLOC freed 491K, 20% free 2715K/3364K, paused 42ms, total 43ms
+12-01 13:56:52.244: D/dalvikvm(1021): GC_FOR_ALLOC freed 491K, 20% free 2735K/3384K, paused 42ms, total 44ms
+12-01 13:56:52.693: D/dalvikvm(1021): GC_FOR_ALLOC freed 491K, 20% free 2755K/3404K, paused 44ms, total 45ms
+12-01 13:56:53.154: D/dalvikvm(1021): GC_FOR_ALLOC freed 494K, 20% free 2773K/3424K, paused 45ms, total 46ms
+12-01 13:56:53.604: D/dalvikvm(1021): GC_FOR_ALLOC freed 493K, 19% free 2789K/3440K, paused 44ms, total 46ms
+12-01 13:56:54.054: D/dalvikvm(1021): GC_FOR_ALLOC freed 492K, 19% free 2806K/3456K, paused 43ms, total 44ms
+12-01 13:56:54.504: D/dalvikvm(1021): GC_FOR_ALLOC freed 725K, 26% free 2593K/3476K, paused 43ms, total 45ms
+12-01 13:56:55.044: D/dalvikvm(1021): GC_FOR_ALLOC freed 506K, 26% free 2598K/3476K, paused 43ms, total 44ms
+12-01 13:56:55.534: D/dalvikvm(1021): GC_FOR_ALLOC freed 509K, 26% free 2600K/3476K, paused 40ms, total 41ms
+12-01 13:56:56.054: D/dalvikvm(1021): GC_FOR_ALLOC freed 508K, 26% free 2603K/3476K, paused 44ms, total 45ms
+12-01 13:56:56.494: D/dalvikvm(1021): GC_FOR_ALLOC freed 493K, 25% free 2621K/3476K, paused 41ms, total 43ms
+12-01 13:56:56.934: D/dalvikvm(1021): GC_FOR_ALLOC freed 492K, 25% free 2641K/3476K, paused 43ms, total 45ms
+12-01 13:56:57.434: D/dalvikvm(1021): GC_FOR_ALLOC freed 512K, 25% free 2640K/3476K, paused 44ms, total 47ms
+12-01 13:56:57.904: D/dalvikvm(1021): GC_FOR_ALLOC freed 491K, 24% free 2660K/3476K, paused 42ms, total 43ms
+12-01 13:56:58.364: D/dalvikvm(1021): GC_FOR_ALLOC freed 496K, 24% free 2676K/3476K, paused 42ms, total 44ms
+12-01 13:56:58.813: D/dalvikvm(1021): GC_FOR_ALLOC freed 492K, 23% free 2695K/3476K, paused 42ms, total 44ms
+12-01 13:56:59.244: D/dalvikvm(1021): GC_FOR_ALLOC freed 491K, 22% free 2716K/3476K, paused 45ms, total 47ms
+12-01 13:56:59.713: D/dalvikvm(1021): GC_FOR_ALLOC freed 500K, 22% free 2727K/3476K, paused 44ms, total 47ms
+12-01 13:57:00.564: D/dalvikvm(1021): GC_FOR_ALLOC freed 501K, 22% free 2738K/3476K, paused 133ms, total 137ms
+12-01 13:57:01.244: D/dalvikvm(1021): GC_FOR_ALLOC freed 492K, 21% free 2757K/3476K, paused 44ms, total 46ms
+12-01 13:57:01.743: D/dalvikvm(1021): GC_FOR_ALLOC freed 500K, 21% free 2769K/3476K, paused 43ms, total 44ms
+12-01 13:57:02.194: D/dalvikvm(1021): GC_FOR_ALLOC freed 491K, 20% free 2789K/3476K, paused 45ms, total 46ms
+12-01 13:57:02.634: D/dalvikvm(1021): GC_FOR_ALLOC freed 493K, 20% free 2807K/3476K, paused 48ms, total 50ms
+12-01 13:57:03.074: D/dalvikvm(1021): GC_FOR_ALLOC freed 492K, 19% free 2825K/3476K, paused 45ms, total 49ms
+12-01 13:57:03.504: D/dalvikvm(1021): GC_FOR_ALLOC freed 492K, 19% free 2844K/3496K, paused 45ms, total 53ms
+12-01 13:57:03.934: D/dalvikvm(1021): GC_FOR_ALLOC freed 490K, 19% free 2862K/3512K, paused 46ms, total 48ms
+12-01 13:57:04.364: D/dalvikvm(1021): GC_FOR_ALLOC freed 496K, 19% free 2876K/3532K, paused 43ms, total 47ms
+12-01 13:57:04.803: D/dalvikvm(1021): GC_FOR_ALLOC freed 492K, 19% free 2892K/3544K, paused 45ms, total 48ms
+12-01 13:57:05.284: D/dalvikvm(1021): GC_FOR_ALLOC freed 753K, 26% free 2647K/3560K, paused 46ms, total 47ms
+12-01 13:57:05.733: D/dalvikvm(1021): GC_FOR_ALLOC freed 497K, 26% free 2661K/3560K, paused 44ms, total 47ms
+12-01 13:57:06.164: D/dalvikvm(1021): GC_FOR_ALLOC freed 496K, 25% free 2677K/3560K, paused 42ms, total 44ms
+12-01 13:57:06.614: D/dalvikvm(1021): GC_FOR_ALLOC freed 493K, 25% free 2695K/3560K, paused 44ms, total 46ms
+12-01 13:57:07.074: D/dalvikvm(1021): GC_FOR_ALLOC freed 493K, 24% free 2714K/3560K, paused 44ms, total 45ms
+12-01 13:57:07.544: D/dalvikvm(1021): GC_FOR_ALLOC freed 498K, 24% free 2728K/3560K, paused 42ms, total 46ms
+12-01 13:57:08.004: D/dalvikvm(1021): GC_FOR_ALLOC freed 493K, 23% free 2746K/3560K, paused 45ms, total 47ms
+12-01 13:57:08.464: D/dalvikvm(1021): GC_FOR_ALLOC freed 491K, 23% free 2767K/3560K, paused 45ms, total 47ms
+12-01 13:57:08.924: D/dalvikvm(1021): GC_FOR_ALLOC freed 495K, 22% free 2784K/3560K, paused 43ms, total 49ms
+12-01 13:57:09.394: D/dalvikvm(1021): GC_FOR_ALLOC freed 491K, 22% free 2804K/3560K, paused 45ms, total 55ms
+12-01 13:57:09.864: D/dalvikvm(1021): GC_FOR_ALLOC freed 499K, 21% free 2817K/3560K, paused 46ms, total 47ms
+12-01 13:57:10.324: D/dalvikvm(1021): GC_FOR_ALLOC freed 495K, 21% free 2834K/3560K, paused 45ms, total 48ms
+12-01 13:57:10.773: D/dalvikvm(1021): GC_FOR_ALLOC freed 493K, 20% free 2853K/3560K, paused 44ms, total 46ms
+12-01 13:57:11.234: D/dalvikvm(1021): GC_FOR_ALLOC freed 493K, 20% free 2871K/3560K, paused 47ms, total 49ms
+12-01 13:57:11.693: D/dalvikvm(1021): GC_FOR_ALLOC freed 494K, 19% free 2889K/3560K, paused 47ms, total 49ms
+12-01 13:57:12.194: D/dalvikvm(1021): GC_FOR_ALLOC freed 531K, 20% free 2869K/3560K, paused 47ms, total 48ms
+12-01 13:57:12.773: D/dalvikvm(1021): GC_FOR_ALLOC freed 570K, 22% free 2810K/3560K, paused 50ms, total 51ms
+12-01 13:57:13.304: D/dalvikvm(1021): GC_FOR_ALLOC freed 568K, 23% free 2754K/3560K, paused 46ms, total 48ms
+12-01 13:57:13.783: D/dalvikvm(1021): GC_FOR_ALLOC freed 491K, 23% free 2774K/3560K, paused 50ms, total 52ms
+12-01 13:57:14.294: D/dalvikvm(1021): GC_FOR_ALLOC freed 524K, 23% free 2762K/3560K, paused 44ms, total 46ms
+12-01 13:57:14.824: D/dalvikvm(1021): GC_FOR_ALLOC freed 518K, 23% free 2756K/3560K, paused 45ms, total 46ms
+12-01 13:57:15.364: D/dalvikvm(1021): GC_FOR_ALLOC freed 533K, 24% free 2734K/3560K, paused 44ms, total 48ms
+12-01 13:57:15.834: D/dalvikvm(1021): GC_FOR_ALLOC freed 264K, 17% free 2982K/3560K, paused 46ms, total 52ms
+12-01 13:57:16.294: D/dalvikvm(1021): GC_FOR_ALLOC freed 501K, 19% free 2990K/3652K, paused 48ms, total 53ms
+12-01 13:57:16.743: D/dalvikvm(1021): GC_FOR_ALLOC freed 508K, 19% free 2990K/3660K, paused 46ms, total 48ms
+12-01 13:57:17.184: D/dalvikvm(1021): GC_FOR_ALLOC freed 752K, 25% free 2746K/3660K, paused 46ms, total 48ms
+12-01 13:57:17.634: D/dalvikvm(1021): GC_FOR_ALLOC freed 495K, 25% free 2763K/3660K, paused 48ms, total 49ms
+12-01 13:57:18.125: D/dalvikvm(1021): GC_FOR_ALLOC freed 491K, 24% free 2784K/3660K, paused 46ms, total 48ms
+12-01 13:57:18.594: D/dalvikvm(1021): GC_FOR_ALLOC freed 500K, 24% free 2796K/3660K, paused 44ms, total 46ms
+12-01 13:57:19.064: D/dalvikvm(1021): GC_FOR_ALLOC freed 497K, 24% free 2810K/3660K, paused 44ms, total 50ms
+12-01 13:57:19.124: W/dalvikvm(1021): Class resolved by unexpected DEX: Lscala/runtime/NonLocalReturnControl;(0x416fa888):0x4caaa000 ref [Lscala/util/control/ControlThrowable;] Lscala/util/control/ControlThrowable;(0x416fa888):0x4c805000
+12-01 13:57:19.124: W/dalvikvm(1021): (Lscala/runtime/NonLocalReturnControl; had used a different Lscala/util/control/ControlThrowable; during pre-verification)
+12-01 13:57:19.124: I/dalvikvm(1021): Failed resolving Lscala/runtime/NonLocalReturnControl; interface 2072 'Lscala/util/control/ControlThrowable;'
+12-01 13:57:19.124: W/dalvikvm(1021): Link of class 'Lscala/runtime/NonLocalReturnControl;' failed
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021): Cannot load class. Make sure it is in your apk. Class name: 'scala.runtime.NonLocalReturnControl'. Message: scala.runtime.NonLocalReturnControl
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021): java.lang.ClassNotFoundException: scala.runtime.NonLocalReturnControl
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at java.lang.Class.classForName(Native Method)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at java.lang.Class.forName(Class.java:204)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at android.test.ClassPathPackageInfoSource.createPackageInfo(ClassPathPackageInfoSource.java:88)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at android.test.ClassPathPackageInfoSource.access$000(ClassPathPackageInfoSource.java:39)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at android.test.ClassPathPackageInfoSource$1.load(ClassPathPackageInfoSource.java:50)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at android.test.ClassPathPackageInfoSource$1.load(ClassPathPackageInfoSource.java:47)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at android.test.SimpleCache.get(SimpleCache.java:31)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at android.test.ClassPathPackageInfoSource.getPackageInfo(ClassPathPackageInfoSource.java:72)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at android.test.ClassPathPackageInfo.getSubpackages(ClassPathPackageInfo.java:48)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at android.test.ClassPathPackageInfo.addTopLevelClassesTo(ClassPathPackageInfo.java:61)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at android.test.ClassPathPackageInfo.getTopLevelClassesRecursive(ClassPathPackageInfo.java:55)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at android.test.suitebuilder.TestGrouping.testCaseClassesInPackage(TestGrouping.java:156)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at android.test.suitebuilder.TestGrouping.addPackagesRecursive(TestGrouping.java:117)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at android.test.suitebuilder.TestSuiteBuilder.includePackages(TestSuiteBuilder.java:102)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at android.test.InstrumentationTestRunner.onCreate(InstrumentationTestRunner.java:366)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4435)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at android.app.ActivityThread.access$1300(ActivityThread.java:141)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1316)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at android.os.Handler.dispatchMessage(Handler.java:99)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at android.os.Looper.loop(Looper.java:137)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at android.app.ActivityThread.main(ActivityThread.java:5103)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at java.lang.reflect.Method.invokeNative(Native Method)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at java.lang.reflect.Method.invoke(Method.java:525)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:737)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:553)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at dalvik.system.NativeStart.main(Native Method)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021): Caused by: java.lang.NoClassDefFoundError: scala/runtime/NonLocalReturnControl
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   ... 26 more
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021): Caused by: java.lang.IllegalAccessError: Class ref in pre-verified class resolved to unexpected implementation
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at dalvik.system.DexFile.defineClass(Native Method)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at dalvik.system.DexFile.loadClassBinaryName(DexFile.java:211)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at dalvik.system.DexPathList.findClass(DexPathList.java:313)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:51)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at java.lang.ClassLoader.loadClass(ClassLoader.java:501)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   at java.lang.ClassLoader.loadClass(ClassLoader.java:461)
+12-01 13:57:19.214: W/ClassPathPackageInfoSource(1021):   ... 26 more
+12-01 13:57:19.614: D/dalvikvm(1021): GC_FOR_ALLOC freed 574K, 25% free 2748K/3660K, paused 46ms, total 47ms
+12-01 13:57:20.054: D/dalvikvm(1021): GC_FOR_ALLOC freed 494K, 25% free 2766K/3660K, paused 48ms, total 49ms
+12-01 13:57:20.504: D/dalvikvm(1021): GC_FOR_ALLOC freed 492K, 24% free 2785K/3660K, paused 46ms, total 48ms
+12-01 13:57:20.964: D/dalvikvm(1021): GC_FOR_ALLOC freed 492K, 24% free 2804K/3660K, paused 46ms, total 48ms
+12-01 13:57:21.434: D/dalvikvm(1021): GC_FOR_ALLOC freed 491K, 23% free 2825K/3660K, paused 47ms, total 50ms
+12-01 13:57:21.906: D/dalvikvm(1021): GC_FOR_ALLOC freed 499K, 23% free 2837K/3660K, paused 46ms, total 48ms
+12-01 13:57:22.354: E/dalvikvm(1021): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:57:22.385: E/dalvikvm(1021): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:57:22.394: E/dalvikvm(1021): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:57:22.403: E/dalvikvm(1021): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:57:22.403: E/dalvikvm(1021): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:57:22.424: E/dalvikvm(1021): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:57:22.444: E/dalvikvm(1021): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:57:22.454: E/dalvikvm(1021): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:57:22.464: E/dalvikvm(1021): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:57:22.484: I/TestRunner(1021): started: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:22.554: E/dalvikvm(1021): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:57:22.554: I/TestRunner(1021): finished: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:22.565: I/TestRunner(1021): passed: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:22.622: I/TestRunner(1021): started: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:22.673: E/dalvikvm(1021): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:57:22.673: I/TestRunner(1021): finished: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:22.673: I/TestRunner(1021): passed: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:22.754: I/TestRunner(1021): started: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:22.804: E/dalvikvm(1021): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:57:22.804: I/TestRunner(1021): finished: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:22.814: I/TestRunner(1021): passed: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:22.905: I/TestRunner(1021): started: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:22.974: E/dalvikvm(1021): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:57:22.984: I/TestRunner(1021): finished: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:22.994: I/TestRunner(1021): passed: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:23.054: I/TestRunner(1021): started: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:23.144: E/dalvikvm(1021): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:57:23.144: I/TestRunner(1021): finished: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:23.154: I/TestRunner(1021): passed: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:23.226: I/TestRunner(1021): started: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:23.274: E/dalvikvm(1021): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:57:23.284: I/TestRunner(1021): finished: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:23.284: I/TestRunner(1021): passed: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:23.384: I/TestRunner(1021): started: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:23.444: E/dalvikvm(1021): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:57:23.464: I/TestRunner(1021): finished: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:23.464: I/TestRunner(1021): passed: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:23.534: I/TestRunner(1021): started: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:23.624: E/dalvikvm(1021): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:57:23.634: I/TestRunner(1021): finished: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:23.644: I/TestRunner(1021): passed: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:23.717: I/TestRunner(1021): started: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:23.773: E/dalvikvm(1021): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:57:23.773: I/TestRunner(1021): finished: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:23.783: I/TestRunner(1021): passed: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 13:57:27.304: D/dalvikvm(1046): GC_FOR_ALLOC freed 370K, 17% free 2650K/3176K, paused 57ms, total 60ms
+12-01 13:57:27.844: D/dalvikvm(1046): GC_FOR_ALLOC freed 536K, 21% free 2627K/3320K, paused 43ms, total 45ms
+12-01 13:57:28.354: D/dalvikvm(1046): GC_FOR_ALLOC freed 490K, 21% free 2648K/3320K, paused 42ms, total 43ms
+12-01 13:57:28.874: D/dalvikvm(1046): GC_FOR_ALLOC freed 522K, 21% free 2638K/3320K, paused 41ms, total 43ms
+12-01 13:57:29.364: D/dalvikvm(1046): GC_FOR_ALLOC freed 499K, 21% free 2651K/3320K, paused 40ms, total 42ms
+12-01 13:57:29.875: D/dalvikvm(1046): GC_FOR_ALLOC freed 490K, 20% free 2672K/3320K, paused 43ms, total 45ms
+12-01 13:57:30.344: D/dalvikvm(1046): GC_FOR_ALLOC freed 490K, 20% free 2692K/3340K, paused 42ms, total 44ms
+12-01 13:57:30.804: D/dalvikvm(1046): GC_FOR_ALLOC freed 491K, 20% free 2711K/3360K, paused 44ms, total 45ms
+12-01 13:57:31.264: D/dalvikvm(1046): GC_FOR_ALLOC freed 491K, 20% free 2732K/3380K, paused 46ms, total 47ms
+12-01 13:57:31.713: D/dalvikvm(1046): GC_FOR_ALLOC freed 491K, 20% free 2751K/3400K, paused 42ms, total 44ms
+12-01 13:57:32.174: D/dalvikvm(1046): GC_FOR_ALLOC freed 494K, 20% free 2768K/3420K, paused 44ms, total 45ms
+12-01 13:57:32.624: D/dalvikvm(1046): GC_FOR_ALLOC freed 494K, 19% free 2784K/3436K, paused 44ms, total 45ms
+12-01 13:57:33.074: D/dalvikvm(1046): GC_FOR_ALLOC freed 492K, 19% free 2801K/3452K, paused 44ms, total 46ms
+12-01 13:57:33.534: D/dalvikvm(1046): GC_FOR_ALLOC freed 725K, 26% free 2583K/3468K, paused 43ms, total 45ms
+12-01 13:57:34.074: D/dalvikvm(1046): GC_FOR_ALLOC freed 499K, 26% free 2595K/3468K, paused 43ms, total 46ms
+12-01 13:57:34.693: D/dalvikvm(1046): GC_FOR_ALLOC freed 509K, 26% free 2597K/3468K, paused 40ms, total 41ms
+12-01 13:57:35.174: D/dalvikvm(1046): GC_FOR_ALLOC freed 506K, 25% free 2603K/3468K, paused 40ms, total 42ms
+12-01 13:57:35.683: D/dalvikvm(1046): GC_FOR_ALLOC freed 502K, 25% free 2613K/3468K, paused 41ms, total 42ms
+12-01 13:57:36.134: D/dalvikvm(1046): GC_FOR_ALLOC freed 492K, 25% free 2632K/3468K, paused 43ms, total 44ms
+12-01 13:57:36.633: D/dalvikvm(1046): GC_FOR_ALLOC freed 512K, 25% free 2632K/3468K, paused 41ms, total 43ms
+12-01 13:57:37.084: D/dalvikvm(1046): GC_FOR_ALLOC freed 491K, 24% free 2652K/3468K, paused 41ms, total 43ms
+12-01 13:57:37.544: D/dalvikvm(1046): GC_FOR_ALLOC freed 496K, 24% free 2668K/3468K, paused 42ms, total 45ms
+12-01 13:57:38.014: D/dalvikvm(1046): GC_FOR_ALLOC freed 492K, 23% free 2688K/3468K, paused 48ms, total 50ms
+12-01 13:57:38.454: D/dalvikvm(1046): GC_FOR_ALLOC freed 491K, 22% free 2708K/3468K, paused 44ms, total 45ms
+12-01 13:57:38.915: D/dalvikvm(1046): GC_FOR_ALLOC freed 500K, 22% free 2719K/3468K, paused 44ms, total 46ms
+12-01 13:57:39.394: D/dalvikvm(1046): GC_FOR_ALLOC freed 501K, 22% free 2730K/3468K, paused 42ms, total 45ms
+12-01 13:57:39.824: D/dalvikvm(1046): GC_FOR_ALLOC freed 492K, 21% free 2749K/3468K, paused 44ms, total 45ms
+12-01 13:57:40.305: D/dalvikvm(1046): GC_FOR_ALLOC freed 500K, 21% free 2761K/3468K, paused 45ms, total 46ms
+12-01 13:57:40.794: D/dalvikvm(1046): GC_FOR_ALLOC freed 491K, 20% free 2781K/3468K, paused 44ms, total 46ms
+12-01 13:57:41.244: D/dalvikvm(1046): GC_FOR_ALLOC freed 493K, 20% free 2800K/3468K, paused 45ms, total 47ms
+12-01 13:57:41.683: D/dalvikvm(1046): GC_FOR_ALLOC freed 492K, 19% free 2817K/3468K, paused 44ms, total 45ms
+12-01 13:57:42.124: D/dalvikvm(1046): GC_FOR_ALLOC freed 492K, 19% free 2833K/3484K, paused 45ms, total 55ms
+12-01 13:57:42.554: D/dalvikvm(1046): GC_FOR_ALLOC freed 491K, 19% free 2850K/3500K, paused 45ms, total 46ms
+12-01 13:57:42.984: D/dalvikvm(1046): GC_FOR_ALLOC freed 496K, 19% free 2864K/3520K, paused 46ms, total 47ms
+12-01 13:57:43.434: D/dalvikvm(1046): GC_FOR_ALLOC freed 492K, 19% free 2880K/3532K, paused 44ms, total 47ms
+12-01 13:57:43.864: D/dalvikvm(1046): GC_FOR_ALLOC freed 491K, 19% free 2897K/3548K, paused 44ms, total 46ms
+12-01 13:57:44.324: D/dalvikvm(1046): GC_FOR_ALLOC freed 758K, 26% free 2650K/3568K, paused 44ms, total 46ms
+12-01 13:57:44.753: D/dalvikvm(1046): GC_FOR_ALLOC freed 496K, 26% free 2666K/3568K, paused 43ms, total 44ms
+12-01 13:57:45.204: D/dalvikvm(1046): GC_FOR_ALLOC freed 493K, 25% free 2684K/3568K, paused 44ms, total 45ms
+12-01 13:57:45.663: D/dalvikvm(1046): GC_FOR_ALLOC freed 493K, 25% free 2703K/3568K, paused 44ms, total 46ms
+12-01 13:57:46.144: D/dalvikvm(1046): GC_FOR_ALLOC freed 498K, 24% free 2716K/3568K, paused 44ms, total 46ms
+12-01 13:57:46.613: D/dalvikvm(1046): GC_FOR_ALLOC freed 493K, 24% free 2735K/3568K, paused 44ms, total 46ms
+12-01 13:57:47.086: D/dalvikvm(1046): GC_FOR_ALLOC freed 491K, 23% free 2756K/3568K, paused 48ms, total 51ms
+12-01 13:57:47.544: D/dalvikvm(1046): GC_FOR_ALLOC freed 495K, 23% free 2772K/3568K, paused 44ms, total 50ms
+12-01 13:57:48.015: D/dalvikvm(1046): GC_FOR_ALLOC freed 491K, 22% free 2793K/3568K, paused 43ms, total 52ms
+12-01 13:57:48.485: D/dalvikvm(1046): GC_FOR_ALLOC freed 499K, 22% free 2806K/3568K, paused 46ms, total 48ms
+12-01 13:57:48.964: D/dalvikvm(1046): GC_FOR_ALLOC freed 494K, 21% free 2823K/3568K, paused 46ms, total 47ms
+12-01 13:57:49.424: D/dalvikvm(1046): GC_FOR_ALLOC freed 493K, 21% free 2842K/3568K, paused 44ms, total 46ms
+12-01 13:57:49.884: D/dalvikvm(1046): GC_FOR_ALLOC freed 493K, 20% free 2860K/3568K, paused 44ms, total 45ms
+12-01 13:57:50.344: D/dalvikvm(1046): GC_FOR_ALLOC freed 494K, 20% free 2878K/3568K, paused 46ms, total 49ms
+12-01 13:57:50.844: D/dalvikvm(1046): GC_FOR_ALLOC freed 531K, 20% free 2859K/3568K, paused 44ms, total 46ms
+12-01 13:57:51.464: D/dalvikvm(1046): GC_FOR_ALLOC freed 570K, 22% free 2801K/3568K, paused 47ms, total 49ms
+12-01 13:57:52.004: D/dalvikvm(1046): GC_FOR_ALLOC freed 568K, 24% free 2744K/3568K, paused 46ms, total 48ms
+12-01 13:57:52.504: D/dalvikvm(1046): GC_FOR_ALLOC freed 491K, 23% free 2765K/3568K, paused 43ms, total 45ms
+12-01 13:57:53.016: D/dalvikvm(1046): GC_FOR_ALLOC freed 524K, 23% free 2753K/3568K, paused 44ms, total 47ms
+12-01 13:57:53.534: D/dalvikvm(1046): GC_FOR_ALLOC freed 517K, 24% free 2747K/3568K, paused 46ms, total 47ms
+12-01 13:57:54.074: D/dalvikvm(1046): GC_FOR_ALLOC freed 274K, 17% free 2984K/3568K, paused 45ms, total 48ms
+12-01 13:57:54.555: D/dalvikvm(1046): GC_FOR_ALLOC freed 523K, 19% free 2969K/3652K, paused 48ms, total 50ms
+12-01 13:57:55.026: D/dalvikvm(1046): GC_FOR_ALLOC freed 501K, 19% free 2980K/3652K, paused 48ms, total 56ms
+12-01 13:57:55.504: D/dalvikvm(1046): GC_FOR_ALLOC freed 508K, 19% free 2983K/3652K, paused 48ms, total 50ms
+12-01 13:57:55.955: D/dalvikvm(1046): GC_FOR_ALLOC freed 752K, 26% free 2737K/3652K, paused 48ms, total 49ms
+12-01 13:57:56.404: D/dalvikvm(1046): GC_FOR_ALLOC freed 495K, 25% free 2754K/3652K, paused 46ms, total 47ms
+12-01 13:57:56.854: D/dalvikvm(1046): GC_FOR_ALLOC freed 491K, 25% free 2774K/3652K, paused 47ms, total 50ms
+12-01 13:57:57.324: D/dalvikvm(1046): GC_FOR_ALLOC freed 499K, 24% free 2787K/3652K, paused 45ms, total 47ms
+12-01 13:57:57.824: D/dalvikvm(1046): GC_FOR_ALLOC freed 497K, 24% free 2801K/3652K, paused 44ms, total 51ms
+12-01 13:57:57.884: W/dalvikvm(1046): Class resolved by unexpected DEX: Lscala/runtime/NonLocalReturnControl;(0x416fb6e8):0x4caaa000 ref [Lscala/util/control/ControlThrowable;] Lscala/util/control/ControlThrowable;(0x416fb6e8):0x4c805000
+12-01 13:57:57.884: W/dalvikvm(1046): (Lscala/runtime/NonLocalReturnControl; had used a different Lscala/util/control/ControlThrowable; during pre-verification)
+12-01 13:57:57.884: I/dalvikvm(1046): Failed resolving Lscala/runtime/NonLocalReturnControl; interface 2072 'Lscala/util/control/ControlThrowable;'
+12-01 13:57:57.894: W/dalvikvm(1046): Link of class 'Lscala/runtime/NonLocalReturnControl;' failed
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046): Cannot load class. Make sure it is in your apk. Class name: 'scala.runtime.NonLocalReturnControl'. Message: scala.runtime.NonLocalReturnControl
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046): java.lang.ClassNotFoundException: scala.runtime.NonLocalReturnControl
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at java.lang.Class.classForName(Native Method)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at java.lang.Class.forName(Class.java:204)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at android.test.ClassPathPackageInfoSource.createPackageInfo(ClassPathPackageInfoSource.java:88)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at android.test.ClassPathPackageInfoSource.access$000(ClassPathPackageInfoSource.java:39)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at android.test.ClassPathPackageInfoSource$1.load(ClassPathPackageInfoSource.java:50)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at android.test.ClassPathPackageInfoSource$1.load(ClassPathPackageInfoSource.java:47)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at android.test.SimpleCache.get(SimpleCache.java:31)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at android.test.ClassPathPackageInfoSource.getPackageInfo(ClassPathPackageInfoSource.java:72)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at android.test.ClassPathPackageInfo.getSubpackages(ClassPathPackageInfo.java:48)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at android.test.ClassPathPackageInfo.addTopLevelClassesTo(ClassPathPackageInfo.java:61)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at android.test.ClassPathPackageInfo.getTopLevelClassesRecursive(ClassPathPackageInfo.java:55)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at android.test.suitebuilder.TestGrouping.testCaseClassesInPackage(TestGrouping.java:156)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at android.test.suitebuilder.TestGrouping.addPackagesRecursive(TestGrouping.java:117)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at android.test.suitebuilder.TestSuiteBuilder.includePackages(TestSuiteBuilder.java:102)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at android.test.InstrumentationTestRunner.onCreate(InstrumentationTestRunner.java:366)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4435)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at android.app.ActivityThread.access$1300(ActivityThread.java:141)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1316)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at android.os.Handler.dispatchMessage(Handler.java:99)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at android.os.Looper.loop(Looper.java:137)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at android.app.ActivityThread.main(ActivityThread.java:5103)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at java.lang.reflect.Method.invokeNative(Native Method)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at java.lang.reflect.Method.invoke(Method.java:525)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:737)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:553)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at dalvik.system.NativeStart.main(Native Method)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046): Caused by: java.lang.NoClassDefFoundError: scala/runtime/NonLocalReturnControl
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   ... 26 more
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046): Caused by: java.lang.IllegalAccessError: Class ref in pre-verified class resolved to unexpected implementation
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at dalvik.system.DexFile.defineClass(Native Method)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at dalvik.system.DexFile.loadClassBinaryName(DexFile.java:211)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at dalvik.system.DexPathList.findClass(DexPathList.java:313)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:51)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at java.lang.ClassLoader.loadClass(ClassLoader.java:501)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   at java.lang.ClassLoader.loadClass(ClassLoader.java:461)
+12-01 13:57:57.994: W/ClassPathPackageInfoSource(1046):   ... 26 more
+12-01 13:57:58.404: D/dalvikvm(1046): GC_FOR_ALLOC freed 312K, 18% free 3001K/3652K, paused 49ms, total 50ms
+12-01 13:57:58.844: D/dalvikvm(1046): GC_FOR_ALLOC freed 755K, 26% free 2749K/3668K, paused 48ms, total 51ms
+12-01 13:57:59.294: D/dalvikvm(1046): GC_FOR_ALLOC freed 492K, 25% free 2768K/3668K, paused 47ms, total 48ms
+12-01 13:57:59.743: D/dalvikvm(1046): GC_FOR_ALLOC freed 492K, 24% free 2788K/3668K, paused 46ms, total 48ms
+12-01 13:58:00.663: D/dalvikvm(1046): GC_FOR_ALLOC freed 491K, 24% free 2808K/3668K, paused 101ms, total 117ms
+12-01 13:58:01.324: D/dalvikvm(1046): GC_FOR_ALLOC freed 499K, 24% free 2821K/3668K, paused 47ms, total 49ms
+12-01 13:58:01.804: E/dalvikvm(1046): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:58:01.814: E/dalvikvm(1046): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:58:01.824: E/dalvikvm(1046): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:58:01.834: E/dalvikvm(1046): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:58:01.844: E/dalvikvm(1046): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:58:01.854: E/dalvikvm(1046): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:58:01.864: E/dalvikvm(1046): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:58:01.884: E/dalvikvm(1046): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:58:01.884: E/dalvikvm(1046): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:58:01.914: I/TestRunner(1046): started: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 13:58:01.954: E/dalvikvm(1046): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 1795
+12-01 13:58:04.584: D/dalvikvm(1046): GC_FOR_ALLOC freed 448K, 22% free 2882K/3668K, paused 340ms, total 377ms
+12-01 13:58:05.464: D/dalvikvm(1046): GC_FOR_ALLOC freed 3K, 18% free 3018K/3668K, paused 391ms, total 425ms
+12-01 13:58:05.574: I/dalvikvm-heap(1046): Grow heap (frag case) to 4.172MB for 1127536-byte allocation
+12-01 13:58:05.653: D/dalvikvm(1046): GC_FOR_ALLOC freed <1K, 14% free 4118K/4772K, paused 79ms, total 79ms
+12-01 13:58:05.884: D/dalvikvm(1046): GC_FOR_ALLOC freed 4K, 11% free 4297K/4804K, paused 44ms, total 50ms
+12-01 13:58:06.623: I/Choreographer(1046): Skipped 42 frames!  The application may be doing too much work on its main thread.
+12-01 13:58:06.653: D/gralloc_goldfish(1046): Emulator without GPU emulation detected.
+12-01 13:58:07.454: I/Choreographer(1046): Skipped 57 frames!  The application may be doing too much work on its main thread.
+12-01 13:58:15.623: W/dalvikvm(1046): Class resolved by unexpected DEX: Lcom/example/matrixcalculator/Matrix;(0x416fb6e8):0x4caaa000 ref [Lscala/Array$;] Lscala/Array$;(0x416fb6e8):0x4c805000
+12-01 13:58:15.623: W/dalvikvm(1046): (Lcom/example/matrixcalculator/Matrix; had used a different Lscala/Array$; during pre-verification)
+12-01 13:58:15.643: D/AndroidRuntime(1046): Shutting down VM
+12-01 13:58:15.653: W/dalvikvm(1046): threadid=1: thread exiting with uncaught exception (group=0x41465700)
+12-01 13:58:15.924: E/AndroidRuntime(1046): FATAL EXCEPTION: main
+12-01 13:58:15.924: E/AndroidRuntime(1046): java.lang.IllegalAccessError: Class ref in pre-verified class resolved to unexpected implementation
+12-01 13:58:15.924: E/AndroidRuntime(1046):   at com.example.matrixcalculator.Matrix.<init>(Matrix.scala:33)
+12-01 13:58:15.924: E/AndroidRuntime(1046):   at java.lang.Class.newInstanceImpl(Native Method)
+12-01 13:58:15.924: E/AndroidRuntime(1046):   at java.lang.Class.newInstance(Class.java:1130)
+12-01 13:58:15.924: E/AndroidRuntime(1046):   at android.app.Instrumentation.newActivity(Instrumentation.java:1061)
+12-01 13:58:15.924: E/AndroidRuntime(1046):   at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2128)
+12-01 13:58:15.924: E/AndroidRuntime(1046):   at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2261)
+12-01 13:58:15.924: E/AndroidRuntime(1046):   at android.app.ActivityThread.access$600(ActivityThread.java:141)
+12-01 13:58:15.924: E/AndroidRuntime(1046):   at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+12-01 13:58:15.924: E/AndroidRuntime(1046):   at android.os.Handler.dispatchMessage(Handler.java:99)
+12-01 13:58:15.924: E/AndroidRuntime(1046):   at android.os.Looper.loop(Looper.java:137)
+12-01 13:58:15.924: E/AndroidRuntime(1046):   at android.app.ActivityThread.main(ActivityThread.java:5103)
+12-01 13:58:15.924: E/AndroidRuntime(1046):   at java.lang.reflect.Method.invokeNative(Native Method)
+12-01 13:58:15.924: E/AndroidRuntime(1046):   at java.lang.reflect.Method.invoke(Method.java:525)
+12-01 13:58:15.924: E/AndroidRuntime(1046):   at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:737)
+12-01 13:58:15.924: E/AndroidRuntime(1046):   at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:553)
+12-01 13:58:15.924: E/AndroidRuntime(1046):   at dalvik.system.NativeStart.main(Native Method)
+12-01 13:59:34.884: D/dalvikvm(1113): GC_FOR_ALLOC freed 426K, 19% free 2594K/3176K, paused 61ms, total 64ms
+12-01 13:59:35.334: D/dalvikvm(1113): GC_FOR_ALLOC freed 310K, 15% free 2797K/3264K, paused 49ms, total 51ms
+12-01 13:59:35.914: D/dalvikvm(1113): GC_FOR_ALLOC freed 655K, 24% free 2652K/3464K, paused 44ms, total 47ms
+12-01 13:59:36.384: D/dalvikvm(1113): GC_FOR_ALLOC freed 570K, 26% free 2593K/3464K, paused 41ms, total 42ms
+12-01 13:59:36.834: D/dalvikvm(1113): GC_FOR_ALLOC freed 356K, 21% free 2748K/3464K, paused 40ms, total 42ms
+12-01 13:59:37.374: D/dalvikvm(1113): GC_FOR_ALLOC freed 619K, 24% free 2641K/3464K, paused 46ms, total 50ms
+12-01 13:59:37.834: D/dalvikvm(1113): GC_FOR_ALLOC freed 574K, 26% free 2578K/3464K, paused 41ms, total 43ms
+12-01 13:59:38.314: D/dalvikvm(1113): GC_FOR_ALLOC freed 361K, 22% free 2728K/3464K, paused 41ms, total 42ms
+12-01 13:59:38.786: D/dalvikvm(1113): GC_FOR_ALLOC freed 624K, 25% free 2616K/3464K, paused 41ms, total 45ms
+12-01 13:59:39.314: D/dalvikvm(1113): GC_FOR_ALLOC freed 338K, 20% free 2789K/3464K, paused 43ms, total 45ms
+12-01 13:59:39.834: D/dalvikvm(1113): GC_FOR_ALLOC freed 640K, 24% free 2660K/3464K, paused 44ms, total 46ms
+12-01 13:59:40.294: D/dalvikvm(1113): GC_FOR_ALLOC freed 312K, 18% free 2860K/3464K, paused 42ms, total 45ms
+12-01 13:59:40.814: D/dalvikvm(1113): GC_FOR_ALLOC freed 640K, 23% free 2730K/3528K, paused 45ms, total 47ms
+12-01 13:59:41.314: D/dalvikvm(1113): GC_FOR_ALLOC freed 623K, 26% free 2618K/3528K, paused 44ms, total 45ms
+12-01 13:59:41.744: D/dalvikvm(1113): GC_FOR_ALLOC freed 310K, 21% free 2819K/3528K, paused 44ms, total 47ms
+12-01 13:59:42.224: D/dalvikvm(1113): GC_FOR_ALLOC freed 627K, 24% free 2703K/3528K, paused 43ms, total 44ms
+12-01 13:59:42.684: D/dalvikvm(1113): GC_FOR_ALLOC freed 581K, 26% free 2634K/3528K, paused 42ms, total 44ms
+12-01 13:59:43.184: D/dalvikvm(1113): GC_FOR_ALLOC freed 366K, 22% free 2779K/3528K, paused 42ms, total 44ms
+12-01 13:59:43.653: D/dalvikvm(1113): GC_FOR_ALLOC freed 621K, 25% free 2670K/3528K, paused 45ms, total 46ms
+12-01 13:59:44.075: D/dalvikvm(1113): GC_FOR_ALLOC freed 311K, 19% free 2871K/3528K, paused 44ms, total 47ms
+12-01 13:59:44.514: D/dalvikvm(1113): GC_FOR_ALLOC freed 619K, 22% free 2763K/3540K, paused 44ms, total 46ms
+12-01 13:59:44.984: D/dalvikvm(1113): GC_FOR_ALLOC freed 624K, 26% free 2646K/3540K, paused 44ms, total 46ms
+12-01 13:59:45.404: D/dalvikvm(1113): GC_FOR_ALLOC freed 310K, 20% free 2848K/3540K, paused 44ms, total 46ms
+12-01 13:59:45.884: D/dalvikvm(1113): GC_FOR_ALLOC freed 628K, 23% free 2731K/3540K, paused 43ms, total 50ms
+12-01 13:59:46.344: D/dalvikvm(1113): GC_FOR_ALLOC freed 573K, 25% free 2669K/3540K, paused 42ms, total 44ms
+12-01 13:59:46.804: D/dalvikvm(1113): GC_FOR_ALLOC freed 365K, 21% free 2816K/3540K, paused 44ms, total 49ms
+12-01 13:59:47.254: D/dalvikvm(1113): GC_FOR_ALLOC freed 620K, 24% free 2708K/3540K, paused 44ms, total 45ms
+12-01 13:59:47.694: D/dalvikvm(1113): GC_FOR_ALLOC freed 313K, 18% free 2906K/3540K, paused 43ms, total 45ms
+12-01 13:59:48.144: D/dalvikvm(1113): GC_FOR_ALLOC freed 626K, 22% free 2790K/3576K, paused 47ms, total 50ms
+12-01 13:59:48.623: D/dalvikvm(1113): GC_FOR_ALLOC freed 623K, 26% free 2678K/3576K, paused 46ms, total 49ms
+12-01 13:59:49.054: D/dalvikvm(1113): GC_FOR_ALLOC freed 311K, 20% free 2879K/3576K, paused 42ms, total 44ms
+12-01 13:59:49.513: D/dalvikvm(1113): GC_FOR_ALLOC freed 625K, 23% free 2765K/3576K, paused 46ms, total 48ms
+12-01 13:59:50.004: D/dalvikvm(1113): GC_FOR_ALLOC freed 360K, 19% free 2917K/3576K, paused 45ms, total 48ms
+12-01 13:59:50.553: D/dalvikvm(1113): GC_FOR_ALLOC freed 690K, 24% free 2737K/3588K, paused 46ms, total 51ms
+12-01 13:59:51.034: D/dalvikvm(1113): GC_FOR_ALLOC freed 335K, 19% free 2914K/3588K, paused 44ms, total 48ms
+12-01 13:59:51.653: D/dalvikvm(1113): GC_FOR_ALLOC freed 673K, 24% free 2752K/3588K, paused 45ms, total 47ms
+12-01 13:59:52.124: D/dalvikvm(1113): GC_FOR_ALLOC freed 340K, 19% free 2924K/3588K, paused 48ms, total 50ms
+12-01 13:59:52.603: D/dalvikvm(1113): GC_FOR_ALLOC freed 641K, 23% free 2790K/3592K, paused 47ms, total 51ms
+12-01 13:59:53.045: D/dalvikvm(1113): GC_FOR_ALLOC freed 309K, 17% free 2993K/3592K, paused 45ms, total 49ms
+12-01 13:59:53.494: D/dalvikvm(1113): GC_FOR_ALLOC freed 621K, 22% free 2878K/3660K, paused 48ms, total 56ms
+12-01 13:59:53.984: D/dalvikvm(1113): GC_FOR_ALLOC freed 630K, 25% free 2759K/3660K, paused 47ms, total 51ms
+12-01 13:59:54.414: D/dalvikvm(1113): GC_FOR_ALLOC freed 318K, 20% free 2953K/3660K, paused 46ms, total 48ms
+12-01 13:59:54.874: D/dalvikvm(1113): GC_FOR_ALLOC freed 620K, 23% free 2844K/3660K, paused 47ms, total 52ms
+12-01 13:59:55.355: D/dalvikvm(1113): GC_FOR_ALLOC freed 572K, 24% free 2783K/3660K, paused 47ms, total 54ms
+12-01 13:59:55.804: D/dalvikvm(1113): GC_FOR_ALLOC freed 363K, 20% free 2932K/3660K, paused 46ms, total 48ms
+12-01 13:59:56.244: E/dalvikvm(1113): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 13:59:56.274: E/dalvikvm(1113): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 13:59:56.294: E/dalvikvm(1113): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 13:59:56.304: E/dalvikvm(1113): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 13:59:56.315: E/dalvikvm(1113): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 13:59:56.334: E/dalvikvm(1113): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 13:59:56.344: E/dalvikvm(1113): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 13:59:56.354: E/dalvikvm(1113): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 13:59:56.354: E/dalvikvm(1113): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 13:59:56.384: I/TestRunner(1113): started: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:56.444: E/dalvikvm(1113): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 13:59:56.444: I/TestRunner(1113): finished: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:56.454: I/TestRunner(1113): passed: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:56.514: I/TestRunner(1113): started: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:56.593: E/dalvikvm(1113): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 13:59:56.593: I/TestRunner(1113): finished: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:56.603: I/TestRunner(1113): passed: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:56.702: I/TestRunner(1113): started: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:56.754: E/dalvikvm(1113): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 13:59:56.754: I/TestRunner(1113): finished: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:56.754: I/TestRunner(1113): passed: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:56.836: I/TestRunner(1113): started: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:56.905: E/dalvikvm(1113): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 13:59:56.905: I/TestRunner(1113): finished: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:56.914: I/TestRunner(1113): passed: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:56.991: I/TestRunner(1113): started: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:57.084: E/dalvikvm(1113): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 13:59:57.084: I/TestRunner(1113): finished: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:57.094: I/TestRunner(1113): passed: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:57.184: I/TestRunner(1113): started: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:57.244: E/dalvikvm(1113): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 13:59:57.244: I/TestRunner(1113): finished: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:57.254: I/TestRunner(1113): passed: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:57.355: I/TestRunner(1113): started: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:57.424: E/dalvikvm(1113): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 13:59:57.424: I/TestRunner(1113): finished: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:57.434: I/TestRunner(1113): passed: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:57.493: I/TestRunner(1113): started: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:57.563: E/dalvikvm(1113): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 13:59:57.563: I/TestRunner(1113): finished: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:57.573: I/TestRunner(1113): passed: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:57.650: I/TestRunner(1113): started: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:57.714: E/dalvikvm(1113): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 13:59:57.714: I/TestRunner(1113): finished: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 13:59:57.724: I/TestRunner(1113): passed: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:00:01.944: D/dalvikvm(1138): GC_FOR_ALLOC freed 430K, 19% free 2590K/3176K, paused 58ms, total 63ms
+12-01 14:00:02.384: D/dalvikvm(1138): GC_FOR_ALLOC freed 310K, 15% free 2792K/3260K, paused 42ms, total 44ms
+12-01 14:00:02.924: D/dalvikvm(1138): GC_FOR_ALLOC freed 655K, 24% free 2648K/3460K, paused 44ms, total 46ms
+12-01 14:00:03.404: D/dalvikvm(1138): GC_FOR_ALLOC freed 570K, 26% free 2589K/3460K, paused 40ms, total 42ms
+12-01 14:00:03.925: D/dalvikvm(1138): GC_FOR_ALLOC freed 356K, 21% free 2744K/3460K, paused 99ms, total 100ms
+12-01 14:00:04.434: D/dalvikvm(1138): GC_FOR_ALLOC freed 619K, 24% free 2637K/3460K, paused 41ms, total 43ms
+12-01 14:00:04.894: D/dalvikvm(1138): GC_FOR_ALLOC freed 312K, 19% free 2836K/3460K, paused 41ms, total 43ms
+12-01 14:00:05.404: D/dalvikvm(1138): GC_FOR_ALLOC freed 622K, 23% free 2724K/3504K, paused 42ms, total 44ms
+12-01 14:00:05.884: D/dalvikvm(1138): GC_FOR_ALLOC freed 624K, 26% free 2612K/3504K, paused 42ms, total 45ms
+12-01 14:00:06.414: D/dalvikvm(1138): GC_FOR_ALLOC freed 338K, 21% free 2785K/3504K, paused 41ms, total 43ms
+12-01 14:00:06.954: D/dalvikvm(1138): GC_FOR_ALLOC freed 640K, 25% free 2657K/3504K, paused 42ms, total 44ms
+12-01 14:00:07.404: D/dalvikvm(1138): GC_FOR_ALLOC freed 312K, 19% free 2856K/3504K, paused 44ms, total 45ms
+12-01 14:00:07.884: D/dalvikvm(1138): GC_FOR_ALLOC freed 640K, 23% free 2726K/3524K, paused 43ms, total 46ms
+12-01 14:00:08.374: D/dalvikvm(1138): GC_FOR_ALLOC freed 619K, 26% free 2619K/3524K, paused 43ms, total 46ms
+12-01 14:00:08.814: D/dalvikvm(1138): GC_FOR_ALLOC freed 315K, 21% free 2815K/3524K, paused 42ms, total 43ms
+12-01 14:00:09.294: D/dalvikvm(1138): GC_FOR_ALLOC freed 627K, 24% free 2699K/3524K, paused 43ms, total 45ms
+12-01 14:00:09.774: D/dalvikvm(1138): GC_FOR_ALLOC freed 581K, 26% free 2629K/3524K, paused 43ms, total 45ms
+12-01 14:00:10.264: D/dalvikvm(1138): GC_FOR_ALLOC freed 366K, 22% free 2774K/3524K, paused 44ms, total 46ms
+12-01 14:00:10.734: D/dalvikvm(1138): GC_FOR_ALLOC freed 621K, 25% free 2664K/3524K, paused 50ms, total 51ms
+12-01 14:00:11.164: D/dalvikvm(1138): GC_FOR_ALLOC freed 311K, 19% free 2865K/3524K, paused 42ms, total 45ms
+12-01 14:00:11.603: D/dalvikvm(1138): GC_FOR_ALLOC freed 618K, 22% free 2758K/3536K, paused 46ms, total 47ms
+12-01 14:00:12.094: D/dalvikvm(1138): GC_FOR_ALLOC freed 624K, 26% free 2645K/3536K, paused 43ms, total 45ms
+12-01 14:00:12.533: D/dalvikvm(1138): GC_FOR_ALLOC freed 310K, 20% free 2847K/3536K, paused 44ms, total 49ms
+12-01 14:00:13.014: D/dalvikvm(1138): GC_FOR_ALLOC freed 628K, 23% free 2730K/3536K, paused 45ms, total 49ms
+12-01 14:00:13.464: D/dalvikvm(1138): GC_FOR_ALLOC freed 573K, 25% free 2668K/3536K, paused 43ms, total 45ms
+12-01 14:00:13.934: D/dalvikvm(1138): GC_FOR_ALLOC freed 365K, 21% free 2815K/3536K, paused 42ms, total 44ms
+12-01 14:00:14.394: D/dalvikvm(1138): GC_FOR_ALLOC freed 619K, 24% free 2707K/3536K, paused 43ms, total 45ms
+12-01 14:00:14.844: D/dalvikvm(1138): GC_FOR_ALLOC freed 313K, 18% free 2905K/3536K, paused 45ms, total 47ms
+12-01 14:00:15.284: D/dalvikvm(1138): GC_FOR_ALLOC freed 626K, 22% free 2790K/3576K, paused 45ms, total 50ms
+12-01 14:00:15.774: D/dalvikvm(1138): GC_FOR_ALLOC freed 623K, 26% free 2678K/3576K, paused 51ms, total 53ms
+12-01 14:00:16.204: D/dalvikvm(1138): GC_FOR_ALLOC freed 312K, 20% free 2878K/3576K, paused 43ms, total 45ms
+12-01 14:00:16.664: D/dalvikvm(1138): GC_FOR_ALLOC freed 625K, 23% free 2765K/3576K, paused 46ms, total 49ms
+12-01 14:00:17.164: D/dalvikvm(1138): GC_FOR_ALLOC freed 360K, 19% free 2917K/3576K, paused 46ms, total 53ms
+12-01 14:00:17.714: D/dalvikvm(1138): GC_FOR_ALLOC freed 690K, 24% free 2733K/3584K, paused 48ms, total 52ms
+12-01 14:00:18.244: D/dalvikvm(1138): GC_FOR_ALLOC freed 335K, 19% free 2909K/3584K, paused 45ms, total 50ms
+12-01 14:00:18.854: D/dalvikvm(1138): GC_FOR_ALLOC freed 673K, 24% free 2748K/3584K, paused 46ms, total 50ms
+12-01 14:00:19.334: D/dalvikvm(1138): GC_FOR_ALLOC freed 340K, 19% free 2919K/3584K, paused 48ms, total 50ms
+12-01 14:00:19.814: D/dalvikvm(1138): GC_FOR_ALLOC freed 641K, 23% free 2786K/3588K, paused 53ms, total 54ms
+12-01 14:00:20.254: D/dalvikvm(1138): GC_FOR_ALLOC freed 309K, 17% free 2989K/3588K, paused 46ms, total 49ms
+12-01 14:00:20.704: D/dalvikvm(1138): GC_FOR_ALLOC freed 621K, 22% free 2874K/3656K, paused 48ms, total 51ms
+12-01 14:00:21.194: D/dalvikvm(1138): GC_FOR_ALLOC freed 630K, 25% free 2755K/3656K, paused 45ms, total 49ms
+12-01 14:00:21.634: D/dalvikvm(1138): GC_FOR_ALLOC freed 318K, 20% free 2949K/3656K, paused 46ms, total 52ms
+12-01 14:00:22.104: D/dalvikvm(1138): GC_FOR_ALLOC freed 620K, 23% free 2840K/3656K, paused 49ms, total 56ms
+12-01 14:00:22.573: D/dalvikvm(1138): GC_FOR_ALLOC freed 572K, 24% free 2779K/3656K, paused 46ms, total 48ms
+12-01 14:00:23.033: D/dalvikvm(1138): GC_FOR_ALLOC freed 363K, 20% free 2928K/3656K, paused 47ms, total 49ms
+12-01 14:00:23.523: E/dalvikvm(1138): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:00:23.543: E/dalvikvm(1138): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:00:23.543: E/dalvikvm(1138): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:00:23.563: E/dalvikvm(1138): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:00:23.573: E/dalvikvm(1138): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:00:23.593: E/dalvikvm(1138): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:00:23.603: E/dalvikvm(1138): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:00:23.623: E/dalvikvm(1138): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:00:23.623: E/dalvikvm(1138): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:00:23.643: I/TestRunner(1138): started: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:00:23.684: E/dalvikvm(1138): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:00:26.483: D/dalvikvm(1138): GC_FOR_ALLOC freed 529K, 21% free 2907K/3656K, paused 237ms, total 300ms
+12-01 14:00:27.014: D/dalvikvm(1138): GC_FOR_ALLOC freed 2K, 21% free 2917K/3656K, paused 345ms, total 382ms
+12-01 14:00:27.014: I/dalvikvm-heap(1138): Grow heap (frag case) to 3.095MB for 100240-byte allocation
+12-01 14:00:27.274: D/dalvikvm(1138): GC_FOR_ALLOC freed <1K, 20% free 3014K/3756K, paused 255ms, total 255ms
+12-01 14:00:27.573: D/dalvikvm(1138): GC_FOR_ALLOC freed <1K, 20% free 3015K/3756K, paused 300ms, total 301ms
+12-01 14:00:27.593: I/dalvikvm-heap(1138): Grow heap (frag case) to 4.169MB for 1127536-byte allocation
+12-01 14:00:27.674: D/dalvikvm(1138): GC_FOR_ALLOC freed <1K, 16% free 4116K/4860K, paused 42ms, total 43ms
+12-01 14:00:27.884: D/dalvikvm(1138): GC_FOR_ALLOC freed 4K, 12% free 4282K/4860K, paused 50ms, total 54ms
+12-01 14:00:28.624: I/Choreographer(1138): Skipped 42 frames!  The application may be doing too much work on its main thread.
+12-01 14:00:28.654: D/gralloc_goldfish(1138): Emulator without GPU emulation detected.
+12-01 14:00:29.234: I/Choreographer(1138): Skipped 33 frames!  The application may be doing too much work on its main thread.
+12-01 14:00:37.674: D/dalvikvm(1138): GC_FOR_ALLOC freed 347K, 10% free 4528K/5032K, paused 54ms, total 60ms
+12-01 14:00:43.974: I/Choreographer(1138): Skipped 268 frames!  The application may be doing too much work on its main thread.
+12-01 14:00:44.764: I/Choreographer(1138): Skipped 57 frames!  The application may be doing too much work on its main thread.
+12-01 14:00:45.204: D/dalvikvm(1138): GC_FOR_ALLOC freed 319K, 9% free 4885K/5360K, paused 116ms, total 120ms
+12-01 14:00:45.583: I/Choreographer(1138): Skipped 33 frames!  The application may be doing too much work on its main thread.
+12-01 14:00:49.204: I/dalvikvm(1138): Could not find method scala.collection.parallel.IterableSplitter.toString, referenced from method scala.collection.parallel.ParIterableLike$Accessor$class.toString
+12-01 14:00:49.204: W/dalvikvm(1138): VFY: unable to resolve interface method 13470: Lscala/collection/parallel/IterableSplitter;.toString ()Ljava/lang/String;
+12-01 14:00:49.214: D/dalvikvm(1138): VFY: replacing opcode 0x72 at 0x001b
+12-01 14:00:49.264: I/System.out(1138): 3
+12-01 14:00:50.764: I/Choreographer(1138): Skipped 49 frames!  The application may be doing too much work on its main thread.
+12-01 14:00:54.344: I/Choreographer(1138): Skipped 44 frames!  The application may be doing too much work on its main thread.
+12-01 14:00:54.754: I/TestRunner(1138): finished: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:00:54.754: I/TestRunner(1138): passed: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:00:54.804: I/TestRunner(1138): started: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:00:54.894: I/Choreographer(1138): Skipped 41 frames!  The application may be doing too much work on its main thread.
+12-01 14:00:54.915: E/dalvikvm(1138): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:00:57.024: D/dalvikvm(1138): GC_FOR_ALLOC freed 543K, 12% free 5137K/5836K, paused 326ms, total 363ms
+12-01 14:00:58.114: I/Choreographer(1138): Skipped 58 frames!  The application may be doing too much work on its main thread.
+12-01 14:01:00.294: I/Choreographer(1138): Skipped 40 frames!  The application may be doing too much work on its main thread.
+12-01 14:01:08.634: I/TestRunner(1138): finished: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:01:08.634: I/TestRunner(1138): passed: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:01:08.704: I/TestRunner(1138): started: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:01:08.754: E/dalvikvm(1138): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:01:11.904: I/Choreographer(1138): Skipped 89 frames!  The application may be doing too much work on its main thread.
+12-01 14:01:22.794: I/TestRunner(1138): finished: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:01:22.794: I/TestRunner(1138): passed: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:01:22.834: I/TestRunner(1138): started: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 14:01:22.884: E/dalvikvm(1138): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:01:27.034: I/Choreographer(1138): Skipped 64 frames!  The application may be doing too much work on its main thread.
+12-01 14:01:30.614: D/dalvikvm(1138): GC_FOR_ALLOC freed 493K, 11% free 5523K/6172K, paused 91ms, total 127ms
+12-01 14:01:39.774: I/Choreographer(1138): Skipped 135 frames!  The application may be doing too much work on its main thread.
+12-01 14:01:41.304: I/Choreographer(1138): Skipped 95 frames!  The application may be doing too much work on its main thread.
+12-01 14:01:48.354: I/TestRunner(1138): finished: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 14:01:48.354: I/TestRunner(1138): passed: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 14:01:48.403: I/TestRunner(1138): started: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 14:01:48.473: E/dalvikvm(1138): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:01:48.984: D/dalvikvm(1138): GC_FOR_ALLOC freed 1089K, 19% free 5443K/6688K, paused 409ms, total 413ms
+12-01 14:01:49.074: I/Choreographer(1138): Skipped 51 frames!  The application may be doing too much work on its main thread.
+12-01 14:01:52.774: I/Choreographer(1138): Skipped 106 frames!  The application may be doing too much work on its main thread.
+12-01 14:02:04.533: I/Choreographer(1138): Skipped 119 frames!  The application may be doing too much work on its main thread.
+12-01 14:02:05.654: I/Choreographer(1138): Skipped 39 frames!  The application may be doing too much work on its main thread.
+12-01 14:02:09.615: D/dalvikvm(1138): GC_FOR_ALLOC freed 528K, 12% free 5896K/6688K, paused 94ms, total 117ms
+12-01 14:02:11.824: I/Choreographer(1138): Skipped 54 frames!  The application may be doing too much work on its main thread.
+12-01 14:02:12.214: I/TestRunner(1138): finished: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 14:02:12.214: I/TestRunner(1138): passed: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 14:02:12.264: I/TestRunner(1138): started: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:02:12.314: E/dalvikvm(1138): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:02:13.345: W/IInputConnectionWrapper(1138): showStatusIcon on inactive InputConnection
+12-01 14:02:14.834: D/dalvikvm(1138): GREF has increased to 201
+12-01 14:02:15.054: I/Choreographer(1138): Skipped 172 frames!  The application may be doing too much work on its main thread.
+12-01 14:02:15.584: I/Choreographer(1138): Skipped 48 frames!  The application may be doing too much work on its main thread.
+12-01 14:02:16.564: I/Choreographer(1138): Skipped 40 frames!  The application may be doing too much work on its main thread.
+12-01 14:02:25.144: I/dalvikvm(1138): Jit: resizing JitTable from 4096 to 8192
+12-01 14:02:28.764: I/Choreographer(1138): Skipped 242 frames!  The application may be doing too much work on its main thread.
+12-01 14:02:30.304: D/dalvikvm(1138): GC_FOR_ALLOC freed 1042K, 17% free 5985K/7184K, paused 214ms, total 231ms
+12-01 14:02:30.413: I/Choreographer(1138): Skipped 74 frames!  The application may be doing too much work on its main thread.
+12-01 14:02:33.884: I/System.out(1138): 3
+12-01 14:02:35.084: I/Choreographer(1138): Skipped 36 frames!  The application may be doing too much work on its main thread.
+12-01 14:02:38.984: I/Choreographer(1138): Skipped 74 frames!  The application may be doing too much work on its main thread.
+12-01 14:02:39.924: I/Choreographer(1138): Skipped 93 frames!  The application may be doing too much work on its main thread.
+12-01 14:02:41.294: I/Choreographer(1138): Skipped 52 frames!  The application may be doing too much work on its main thread.
+12-01 14:02:43.164: I/Choreographer(1138): Skipped 47 frames!  The application may be doing too much work on its main thread.
+12-01 14:02:43.664: I/TestRunner(1138): finished: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:02:43.674: I/TestRunner(1138): passed: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:02:43.724: I/TestRunner(1138): started: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:02:43.774: E/dalvikvm(1138): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:02:46.834: I/Choreographer(1138): Skipped 154 frames!  The application may be doing too much work on its main thread.
+12-01 14:02:47.284: I/Choreographer(1138): Skipped 39 frames!  The application may be doing too much work on its main thread.
+12-01 14:02:54.184: D/dalvikvm(1138): GC_FOR_ALLOC freed 1318K, 21% free 5829K/7304K, paused 241ms, total 276ms
+12-01 14:03:03.373: I/Choreographer(1138): Skipped 117 frames!  The application may be doing too much work on its main thread.
+12-01 14:03:04.914: I/Choreographer(1138): Skipped 96 frames!  The application may be doing too much work on its main thread.
+12-01 14:03:20.423: I/TestRunner(1138): failed: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:03:20.423: I/TestRunner(1138): ----- begin exception -----
+12-01 14:03:20.554: I/TestRunner(1138): junit.framework.ComparisonFailure: Matrix activity is launched expected:<....matrixcalculator.Ma[trix]> but was:<....matrixcalculator.Ma[in]>
+12-01 14:03:20.554: I/TestRunner(1138):   at junit.framework.Assert.assertEquals(Assert.java:85)
+12-01 14:03:20.554: I/TestRunner(1138):   at com.jayway.android.robotium.solo.Asserter.assertCurrentActivity(Asserter.java:59)
+12-01 14:03:20.554: I/TestRunner(1138):   at com.jayway.android.robotium.solo.Solo.assertCurrentActivity(Solo.java:651)
+12-01 14:03:20.554: I/TestRunner(1138):   at com.example.matrixcalculator.test.TestCases.testFSMTC02(MainTest.scala:181)
+12-01 14:03:20.554: I/TestRunner(1138):   at java.lang.reflect.Method.invokeNative(Native Method)
+12-01 14:03:20.554: I/TestRunner(1138):   at java.lang.reflect.Method.invoke(Method.java:525)
+12-01 14:03:20.554: I/TestRunner(1138):   at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)
+12-01 14:03:20.554: I/TestRunner(1138):   at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)
+12-01 14:03:20.554: I/TestRunner(1138):   at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)
+12-01 14:03:20.554: I/TestRunner(1138):   at junit.framework.TestCase.runBare(TestCase.java:134)
+12-01 14:03:20.554: I/TestRunner(1138):   at junit.framework.TestResult$1.protect(TestResult.java:115)
+12-01 14:03:20.554: I/TestRunner(1138):   at junit.framework.TestResult.runProtected(TestResult.java:133)
+12-01 14:03:20.554: I/TestRunner(1138):   at junit.framework.TestResult.run(TestResult.java:118)
+12-01 14:03:20.554: I/TestRunner(1138):   at junit.framework.TestCase.run(TestCase.java:124)
+12-01 14:03:20.554: I/TestRunner(1138):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+12-01 14:03:20.554: I/TestRunner(1138):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+12-01 14:03:20.554: I/TestRunner(1138):   at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)
+12-01 14:03:20.554: I/TestRunner(1138):   at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)
+12-01 14:03:20.554: I/TestRunner(1138): ----- end exception -----
+12-01 14:03:20.784: I/TestRunner(1138): finished: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:03:20.864: I/TestRunner(1138): started: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:03:21.195: D/dalvikvm(1138): GC_FOR_ALLOC freed 1175K, 22% free 5763K/7304K, paused 249ms, total 257ms
+12-01 14:03:21.214: E/dalvikvm(1138): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:03:24.304: I/Choreographer(1138): Skipped 66 frames!  The application may be doing too much work on its main thread.
+12-01 14:03:35.634: I/Choreographer(1138): Skipped 114 frames!  The application may be doing too much work on its main thread.
+12-01 14:03:37.154: I/Choreographer(1138): Skipped 91 frames!  The application may be doing too much work on its main thread.
+12-01 14:03:41.814: I/System.out(1138): 3
+12-01 14:03:42.413: D/dalvikvm(1138): GC_FOR_ALLOC freed 690K, 16% free 6160K/7304K, paused 214ms, total 233ms
+12-01 14:03:43.274: I/Choreographer(1138): Skipped 35 frames!  The application may be doing too much work on its main thread.
+12-01 14:03:46.794: I/Choreographer(1138): Skipped 40 frames!  The application may be doing too much work on its main thread.
+12-01 14:03:47.403: I/TestRunner(1138): finished: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:03:47.403: I/TestRunner(1138): passed: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:03:47.443: I/TestRunner(1138): started: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:03:47.504: E/dalvikvm(1138): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:03:50.924: I/Choreographer(1138): Skipped 91 frames!  The application may be doing too much work on its main thread.
+12-01 14:04:06.104: D/dalvikvm(1138): GC_FOR_ALLOC freed 1043K, 16% free 6337K/7536K, paused 251ms, total 284ms
+12-01 14:04:07.124: I/Choreographer(1138): Skipped 162 frames!  The application may be doing too much work on its main thread.
+12-01 14:04:08.514: I/Choreographer(1138): Skipped 47 frames!  The application may be doing too much work on its main thread.
+12-01 14:04:09.194: I/Choreographer(1138): Skipped 32 frames!  The application may be doing too much work on its main thread.
+12-01 14:04:13.854: I/TestRunner(1138): finished: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:04:13.854: I/TestRunner(1138): passed: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:09:57.063: D/dalvikvm(1273): GC_FOR_ALLOC freed 434K, 19% free 2586K/3176K, paused 60ms, total 63ms
+12-01 14:09:57.504: D/dalvikvm(1273): GC_FOR_ALLOC freed 311K, 15% free 2788K/3256K, paused 41ms, total 42ms
+12-01 14:09:58.043: D/dalvikvm(1273): GC_FOR_ALLOC freed 655K, 24% free 2644K/3456K, paused 45ms, total 47ms
+12-01 14:09:58.513: D/dalvikvm(1273): GC_FOR_ALLOC freed 571K, 26% free 2585K/3456K, paused 40ms, total 42ms
+12-01 14:09:58.963: D/dalvikvm(1273): GC_FOR_ALLOC freed 356K, 21% free 2740K/3456K, paused 40ms, total 42ms
+12-01 14:09:59.544: D/dalvikvm(1273): GC_FOR_ALLOC freed 619K, 24% free 2632K/3456K, paused 42ms, total 43ms
+12-01 14:09:59.993: D/dalvikvm(1273): GC_FOR_ALLOC freed 312K, 19% free 2831K/3456K, paused 42ms, total 44ms
+12-01 14:10:01.084: D/dalvikvm(1273): GC_FOR_ALLOC freed 623K, 23% free 2720K/3500K, paused 46ms, total 47ms
+12-01 14:10:01.564: D/dalvikvm(1273): GC_FOR_ALLOC freed 624K, 26% free 2607K/3500K, paused 43ms, total 45ms
+12-01 14:10:02.104: D/dalvikvm(1273): GC_FOR_ALLOC freed 338K, 21% free 2780K/3500K, paused 42ms, total 43ms
+12-01 14:10:02.644: D/dalvikvm(1273): GC_FOR_ALLOC freed 640K, 25% free 2652K/3500K, paused 42ms, total 46ms
+12-01 14:10:03.094: D/dalvikvm(1273): GC_FOR_ALLOC freed 312K, 19% free 2851K/3500K, paused 45ms, total 47ms
+12-01 14:10:03.594: D/dalvikvm(1273): GC_FOR_ALLOC freed 641K, 23% free 2722K/3520K, paused 44ms, total 46ms
+12-01 14:10:04.075: D/dalvikvm(1273): GC_FOR_ALLOC freed 616K, 26% free 2617K/3520K, paused 44ms, total 47ms
+12-01 14:10:04.524: D/dalvikvm(1273): GC_FOR_ALLOC freed 318K, 21% free 2811K/3520K, paused 43ms, total 45ms
+12-01 14:10:05.003: D/dalvikvm(1273): GC_FOR_ALLOC freed 628K, 24% free 2695K/3520K, paused 45ms, total 46ms
+12-01 14:10:05.504: D/dalvikvm(1273): GC_FOR_ALLOC freed 319K, 18% free 2887K/3520K, paused 43ms, total 45ms
+12-01 14:10:06.003: D/dalvikvm(1273): GC_FOR_ALLOC freed 628K, 23% free 2768K/3556K, paused 44ms, total 48ms
+12-01 14:10:06.484: D/dalvikvm(1273): GC_FOR_ALLOC freed 621K, 26% free 2659K/3556K, paused 43ms, total 46ms
+12-01 14:10:06.913: D/dalvikvm(1273): GC_FOR_ALLOC freed 311K, 20% free 2860K/3556K, paused 42ms, total 44ms
+12-01 14:10:07.364: D/dalvikvm(1273): GC_FOR_ALLOC freed 619K, 23% free 2752K/3556K, paused 44ms, total 46ms
+12-01 14:10:07.844: D/dalvikvm(1273): GC_FOR_ALLOC freed 577K, 25% free 2687K/3556K, paused 43ms, total 46ms
+12-01 14:10:08.274: D/dalvikvm(1273): GC_FOR_ALLOC freed 358K, 21% free 2841K/3556K, paused 42ms, total 46ms
+12-01 14:10:08.754: D/dalvikvm(1273): GC_FOR_ALLOC freed 629K, 24% free 2723K/3556K, paused 45ms, total 49ms
+12-01 14:10:09.204: D/dalvikvm(1273): GC_FOR_ALLOC freed 573K, 26% free 2661K/3556K, paused 44ms, total 47ms
+12-01 14:10:09.674: D/dalvikvm(1273): GC_FOR_ALLOC freed 365K, 22% free 2807K/3556K, paused 44ms, total 46ms
+12-01 14:10:10.134: D/dalvikvm(1273): GC_FOR_ALLOC freed 620K, 25% free 2699K/3556K, paused 43ms, total 46ms
+12-01 14:10:10.574: D/dalvikvm(1273): GC_FOR_ALLOC freed 313K, 19% free 2898K/3556K, paused 43ms, total 44ms
+12-01 14:10:11.015: D/dalvikvm(1273): GC_FOR_ALLOC freed 626K, 22% free 2783K/3568K, paused 46ms, total 48ms
+12-01 14:10:11.524: D/dalvikvm(1273): GC_FOR_ALLOC freed 624K, 26% free 2669K/3568K, paused 44ms, total 48ms
+12-01 14:10:11.943: D/dalvikvm(1273): GC_FOR_ALLOC freed 312K, 20% free 2869K/3568K, paused 43ms, total 45ms
+12-01 14:10:12.414: D/dalvikvm(1273): GC_FOR_ALLOC freed 625K, 23% free 2755K/3568K, paused 47ms, total 49ms
+12-01 14:10:12.903: D/dalvikvm(1273): GC_FOR_ALLOC freed 360K, 19% free 2907K/3568K, paused 44ms, total 46ms
+12-01 14:10:13.485: D/dalvikvm(1273): GC_FOR_ALLOC freed 690K, 24% free 2725K/3576K, paused 47ms, total 57ms
+12-01 14:10:13.953: D/dalvikvm(1273): GC_FOR_ALLOC freed 335K, 19% free 2901K/3576K, paused 46ms, total 48ms
+12-01 14:10:14.564: D/dalvikvm(1273): GC_FOR_ALLOC freed 673K, 24% free 2740K/3576K, paused 46ms, total 49ms
+12-01 14:10:15.033: D/dalvikvm(1273): GC_FOR_ALLOC freed 340K, 19% free 2911K/3576K, paused 44ms, total 47ms
+12-01 14:10:15.524: D/dalvikvm(1273): GC_FOR_ALLOC freed 641K, 23% free 2777K/3580K, paused 52ms, total 54ms
+12-01 14:10:15.963: D/dalvikvm(1273): GC_FOR_ALLOC freed 309K, 17% free 2980K/3580K, paused 46ms, total 48ms
+12-01 14:10:16.414: D/dalvikvm(1273): GC_FOR_ALLOC freed 621K, 22% free 2865K/3648K, paused 49ms, total 52ms
+12-01 14:10:16.913: D/dalvikvm(1273): GC_FOR_ALLOC freed 630K, 25% free 2743K/3648K, paused 45ms, total 47ms
+12-01 14:10:17.364: D/dalvikvm(1273): GC_FOR_ALLOC freed 318K, 20% free 2936K/3648K, paused 46ms, total 48ms
+12-01 14:10:17.834: D/dalvikvm(1273): GC_FOR_ALLOC freed 621K, 23% free 2827K/3648K, paused 47ms, total 53ms
+12-01 14:10:18.304: D/dalvikvm(1273): GC_FOR_ALLOC freed 573K, 25% free 2766K/3648K, paused 47ms, total 52ms
+12-01 14:10:18.774: D/dalvikvm(1273): GC_FOR_ALLOC freed 363K, 21% free 2915K/3648K, paused 47ms, total 48ms
+12-01 14:10:19.274: E/dalvikvm(1273): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:19.294: E/dalvikvm(1273): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:19.304: E/dalvikvm(1273): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:19.316: E/dalvikvm(1273): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:19.334: E/dalvikvm(1273): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:19.344: E/dalvikvm(1273): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:19.354: E/dalvikvm(1273): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:19.374: E/dalvikvm(1273): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:19.374: E/dalvikvm(1273): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:19.404: I/TestRunner(1273): started: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:19.454: E/dalvikvm(1273): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:19.454: I/TestRunner(1273): finished: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:19.464: I/TestRunner(1273): passed: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:19.515: I/TestRunner(1273): started: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:19.584: E/dalvikvm(1273): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:19.584: I/TestRunner(1273): finished: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:19.594: I/TestRunner(1273): passed: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:19.667: I/TestRunner(1273): started: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:19.715: E/dalvikvm(1273): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:19.724: I/TestRunner(1273): finished: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:19.734: I/TestRunner(1273): passed: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:19.798: I/TestRunner(1273): started: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:19.864: E/dalvikvm(1273): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:19.864: I/TestRunner(1273): finished: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:19.884: I/TestRunner(1273): passed: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:19.953: I/TestRunner(1273): started: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:20.023: E/dalvikvm(1273): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:20.023: I/TestRunner(1273): finished: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:20.023: I/TestRunner(1273): passed: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:20.098: I/TestRunner(1273): started: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:20.144: E/dalvikvm(1273): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:20.144: I/TestRunner(1273): finished: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:20.144: I/TestRunner(1273): passed: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:20.236: I/TestRunner(1273): started: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:20.294: E/dalvikvm(1273): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:20.304: I/TestRunner(1273): finished: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:20.304: I/TestRunner(1273): passed: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:20.389: I/TestRunner(1273): started: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:20.464: E/dalvikvm(1273): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:20.464: I/TestRunner(1273): finished: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:20.474: I/TestRunner(1273): passed: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:20.537: I/TestRunner(1273): started: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:20.594: E/dalvikvm(1273): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:20.604: I/TestRunner(1273): finished: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:20.604: I/TestRunner(1273): passed: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:24.274: D/dalvikvm(1298): GC_FOR_ALLOC freed 437K, 19% free 2583K/3176K, paused 62ms, total 65ms
+12-01 14:10:24.714: D/dalvikvm(1298): GC_FOR_ALLOC freed 311K, 15% free 2784K/3252K, paused 41ms, total 42ms
+12-01 14:10:25.254: D/dalvikvm(1298): GC_FOR_ALLOC freed 655K, 24% free 2640K/3452K, paused 47ms, total 49ms
+12-01 14:10:25.724: D/dalvikvm(1298): GC_FOR_ALLOC freed 571K, 26% free 2581K/3452K, paused 41ms, total 43ms
+12-01 14:10:26.176: D/dalvikvm(1298): GC_FOR_ALLOC freed 356K, 21% free 2736K/3452K, paused 42ms, total 44ms
+12-01 14:10:26.764: D/dalvikvm(1298): GC_FOR_ALLOC freed 619K, 24% free 2628K/3452K, paused 42ms, total 43ms
+12-01 14:10:27.214: D/dalvikvm(1298): GC_FOR_ALLOC freed 313K, 19% free 2827K/3452K, paused 43ms, total 45ms
+12-01 14:10:27.684: D/dalvikvm(1298): GC_FOR_ALLOC freed 623K, 23% free 2716K/3496K, paused 42ms, total 45ms
+12-01 14:10:28.164: D/dalvikvm(1298): GC_FOR_ALLOC freed 624K, 26% free 2603K/3496K, paused 42ms, total 44ms
+12-01 14:10:28.973: D/dalvikvm(1298): GC_FOR_ALLOC freed 338K, 21% free 2776K/3496K, paused 42ms, total 44ms
+12-01 14:10:29.564: D/dalvikvm(1298): GC_FOR_ALLOC freed 640K, 25% free 2647K/3496K, paused 42ms, total 44ms
+12-01 14:10:30.013: D/dalvikvm(1298): GC_FOR_ALLOC freed 312K, 19% free 2846K/3496K, paused 42ms, total 46ms
+12-01 14:10:30.515: D/dalvikvm(1298): GC_FOR_ALLOC freed 641K, 23% free 2717K/3516K, paused 45ms, total 47ms
+12-01 14:10:30.983: D/dalvikvm(1298): GC_FOR_ALLOC freed 572K, 25% free 2657K/3516K, paused 43ms, total 44ms
+12-01 14:10:31.445: D/dalvikvm(1298): GC_FOR_ALLOC freed 362K, 21% free 2806K/3516K, paused 43ms, total 46ms
+12-01 14:10:31.933: D/dalvikvm(1298): GC_FOR_ALLOC freed 628K, 24% free 2690K/3516K, paused 43ms, total 45ms
+12-01 14:10:32.384: D/dalvikvm(1298): GC_FOR_ALLOC freed 319K, 19% free 2882K/3516K, paused 42ms, total 44ms
+12-01 14:10:32.864: D/dalvikvm(1298): GC_FOR_ALLOC freed 628K, 23% free 2765K/3552K, paused 44ms, total 45ms
+12-01 14:10:33.324: D/dalvikvm(1298): GC_FOR_ALLOC freed 621K, 26% free 2656K/3552K, paused 44ms, total 46ms
+12-01 14:10:33.754: D/dalvikvm(1298): GC_FOR_ALLOC freed 311K, 20% free 2856K/3552K, paused 42ms, total 44ms
+12-01 14:10:34.204: D/dalvikvm(1298): GC_FOR_ALLOC freed 619K, 23% free 2749K/3552K, paused 43ms, total 46ms
+12-01 14:10:34.674: D/dalvikvm(1298): GC_FOR_ALLOC freed 577K, 25% free 2684K/3552K, paused 44ms, total 47ms
+12-01 14:10:35.114: D/dalvikvm(1298): GC_FOR_ALLOC freed 358K, 21% free 2837K/3552K, paused 45ms, total 46ms
+12-01 14:10:35.574: D/dalvikvm(1298): GC_FOR_ALLOC freed 629K, 24% free 2720K/3552K, paused 44ms, total 48ms
+12-01 14:10:36.033: D/dalvikvm(1298): GC_FOR_ALLOC freed 573K, 26% free 2658K/3552K, paused 43ms, total 45ms
+12-01 14:10:36.533: D/dalvikvm(1298): GC_FOR_ALLOC freed 365K, 22% free 2804K/3552K, paused 45ms, total 47ms
+12-01 14:10:36.993: D/dalvikvm(1298): GC_FOR_ALLOC freed 620K, 25% free 2696K/3552K, paused 43ms, total 45ms
+12-01 14:10:37.424: D/dalvikvm(1298): GC_FOR_ALLOC freed 313K, 19% free 2894K/3552K, paused 44ms, total 46ms
+12-01 14:10:37.874: D/dalvikvm(1298): GC_FOR_ALLOC freed 626K, 23% free 2779K/3564K, paused 46ms, total 48ms
+12-01 14:10:38.364: D/dalvikvm(1298): GC_FOR_ALLOC freed 621K, 26% free 2669K/3564K, paused 44ms, total 49ms
+12-01 14:10:38.794: D/dalvikvm(1298): GC_FOR_ALLOC freed 314K, 20% free 2866K/3564K, paused 45ms, total 47ms
+12-01 14:10:39.294: D/dalvikvm(1298): GC_FOR_ALLOC freed 625K, 23% free 2753K/3564K, paused 47ms, total 71ms
+12-01 14:10:39.774: D/dalvikvm(1298): GC_FOR_ALLOC freed 360K, 19% free 2904K/3564K, paused 50ms, total 53ms
+12-01 14:10:40.324: D/dalvikvm(1298): GC_FOR_ALLOC freed 690K, 24% free 2721K/3572K, paused 47ms, total 54ms
+12-01 14:10:40.804: D/dalvikvm(1298): GC_FOR_ALLOC freed 335K, 19% free 2897K/3572K, paused 44ms, total 48ms
+12-01 14:10:41.454: D/dalvikvm(1298): GC_FOR_ALLOC freed 673K, 24% free 2735K/3572K, paused 82ms, total 85ms
+12-01 14:10:41.933: D/dalvikvm(1298): GC_FOR_ALLOC freed 340K, 19% free 2906K/3572K, paused 44ms, total 50ms
+12-01 14:10:42.424: D/dalvikvm(1298): GC_FOR_ALLOC freed 641K, 23% free 2774K/3576K, paused 47ms, total 50ms
+12-01 14:10:42.854: D/dalvikvm(1298): GC_FOR_ALLOC freed 309K, 17% free 2976K/3576K, paused 47ms, total 50ms
+12-01 14:10:43.304: D/dalvikvm(1298): GC_FOR_ALLOC freed 621K, 22% free 2861K/3644K, paused 47ms, total 49ms
+12-01 14:10:43.804: D/dalvikvm(1298): GC_FOR_ALLOC freed 630K, 25% free 2742K/3644K, paused 50ms, total 54ms
+12-01 14:10:44.254: D/dalvikvm(1298): GC_FOR_ALLOC freed 318K, 20% free 2936K/3644K, paused 47ms, total 48ms
+12-01 14:10:44.714: D/dalvikvm(1298): GC_FOR_ALLOC freed 620K, 23% free 2827K/3644K, paused 48ms, total 53ms
+12-01 14:10:45.184: D/dalvikvm(1298): GC_FOR_ALLOC freed 573K, 25% free 2766K/3644K, paused 47ms, total 51ms
+12-01 14:10:45.634: D/dalvikvm(1298): GC_FOR_ALLOC freed 363K, 21% free 2914K/3644K, paused 46ms, total 48ms
+12-01 14:10:46.104: E/dalvikvm(1298): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:46.136: E/dalvikvm(1298): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:46.154: E/dalvikvm(1298): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:46.164: E/dalvikvm(1298): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:46.174: E/dalvikvm(1298): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:46.194: E/dalvikvm(1298): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:46.194: E/dalvikvm(1298): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:46.214: E/dalvikvm(1298): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:46.214: E/dalvikvm(1298): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:46.244: I/TestRunner(1298): started: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:10:46.294: E/dalvikvm(1298): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:10:49.134: D/dalvikvm(1298): GC_FOR_ALLOC freed 529K, 21% free 2890K/3644K, paused 337ms, total 341ms
+12-01 14:10:49.704: D/dalvikvm(1298): GC_FOR_ALLOC freed 2K, 20% free 2917K/3644K, paused 156ms, total 251ms
+12-01 14:10:49.704: I/dalvikvm-heap(1298): Grow heap (frag case) to 3.095MB for 100240-byte allocation
+12-01 14:10:49.873: D/dalvikvm(1298): GC_FOR_ALLOC freed <1K, 20% free 3015K/3744K, paused 100ms, total 100ms
+12-01 14:10:49.933: D/dalvikvm(1298): GC_FOR_ALLOC freed <1K, 20% free 3015K/3744K, paused 42ms, total 45ms
+12-01 14:10:49.943: I/dalvikvm-heap(1298): Grow heap (frag case) to 4.170MB for 1127536-byte allocation
+12-01 14:10:50.013: D/dalvikvm(1298): GC_FOR_ALLOC freed <1K, 16% free 4116K/4848K, paused 63ms, total 63ms
+12-01 14:10:50.224: D/dalvikvm(1298): GC_FOR_ALLOC freed 3K, 13% free 4254K/4848K, paused 45ms, total 50ms
+12-01 14:10:50.973: I/Choreographer(1298): Skipped 42 frames!  The application may be doing too much work on its main thread.
+12-01 14:10:51.003: D/gralloc_goldfish(1298): Emulator without GPU emulation detected.
+12-01 14:10:51.574: I/Choreographer(1298): Skipped 35 frames!  The application may be doing too much work on its main thread.
+12-01 14:10:52.354: D/dalvikvm(1298): GC_FOR_ALLOC freed 25K, 11% free 4470K/4992K, paused 647ms, total 665ms
+12-01 14:11:03.114: D/dalvikvm(1298): GC_FOR_ALLOC freed 413K, 11% free 4715K/5284K, paused 124ms, total 136ms
+12-01 14:11:06.184: I/Choreographer(1298): Skipped 125 frames!  The application may be doing too much work on its main thread.
+12-01 14:11:10.973: D/dalvikvm(1298): GC_FOR_ALLOC freed 477K, 12% free 4979K/5612K, paused 69ms, total 71ms
+12-01 14:11:11.344: I/dalvikvm(1298): Could not find method scala.collection.parallel.IterableSplitter.toString, referenced from method scala.collection.parallel.ParIterableLike$Accessor$class.toString
+12-01 14:11:11.344: W/dalvikvm(1298): VFY: unable to resolve interface method 13473: Lscala/collection/parallel/IterableSplitter;.toString ()Ljava/lang/String;
+12-01 14:11:11.344: D/dalvikvm(1298): VFY: replacing opcode 0x72 at 0x001b
+12-01 14:11:11.404: I/System.out(1298): 3
+12-01 14:11:12.744: I/Choreographer(1298): Skipped 38 frames!  The application may be doing too much work on its main thread.
+12-01 14:11:16.744: I/TestRunner(1298): finished: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:11:16.754: I/TestRunner(1298): passed: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:11:16.784: I/TestRunner(1298): started: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:11:16.853: E/dalvikvm(1298): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:11:20.414: I/Choreographer(1298): Skipped 83 frames!  The application may be doing too much work on its main thread.
+12-01 14:11:30.893: I/TestRunner(1298): finished: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:11:30.893: I/TestRunner(1298): passed: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:11:30.953: I/TestRunner(1298): started: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:11:31.024: E/dalvikvm(1298): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:11:32.564: D/dalvikvm(1298): GC_FOR_ALLOC freed 497K, 11% free 5311K/5964K, paused 478ms, total 486ms
+12-01 14:11:34.574: I/Choreographer(1298): Skipped 47 frames!  The application may be doing too much work on its main thread.
+12-01 14:11:45.254: I/TestRunner(1298): finished: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:11:45.254: I/TestRunner(1298): passed: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:11:45.294: I/TestRunner(1298): started: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 14:11:45.374: E/dalvikvm(1298): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:11:48.234: I/Choreographer(1298): Skipped 83 frames!  The application may be doing too much work on its main thread.
+12-01 14:11:48.754: I/Choreographer(1298): Skipped 45 frames!  The application may be doing too much work on its main thread.
+12-01 14:12:00.644: D/dalvikvm(1298): GC_FOR_ALLOC freed 541K, 11% free 5707K/6404K, paused 510ms, total 543ms
+12-01 14:12:03.075: I/Choreographer(1298): Skipped 165 frames!  The application may be doing too much work on its main thread.
+12-01 14:12:04.214: I/Choreographer(1298): Skipped 31 frames!  The application may be doing too much work on its main thread.
+12-01 14:12:08.794: I/Choreographer(1298): Skipped 50 frames!  The application may be doing too much work on its main thread.
+12-01 14:12:09.254: I/TestRunner(1298): finished: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 14:12:09.254: I/TestRunner(1298): passed: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 14:12:09.314: I/TestRunner(1298): started: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 14:12:09.374: E/dalvikvm(1298): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:12:10.454: I/Choreographer(1298): Skipped 35 frames!  The application may be doing too much work on its main thread.
+12-01 14:12:12.534: D/dalvikvm(1298): GREF has increased to 201
+12-01 14:12:13.594: I/Choreographer(1298): Skipped 95 frames!  The application may be doing too much work on its main thread.
+12-01 14:12:24.764: D/dalvikvm(1298): GC_FOR_ALLOC freed 1033K, 18% free 5743K/6932K, paused 165ms, total 184ms
+12-01 14:12:27.254: I/Choreographer(1298): Skipped 136 frames!  The application may be doing too much work on its main thread.
+12-01 14:12:28.424: I/Choreographer(1298): Skipped 34 frames!  The application may be doing too much work on its main thread.
+12-01 14:12:33.294: I/TestRunner(1298): finished: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 14:12:33.294: I/TestRunner(1298): passed: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 14:12:33.344: I/TestRunner(1298): started: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:12:33.405: E/dalvikvm(1298): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:12:33.744: I/Choreographer(1298): Skipped 35 frames!  The application may be doing too much work on its main thread.
+12-01 14:12:34.114: W/IInputConnectionWrapper(1298): showStatusIcon on inactive InputConnection
+12-01 14:12:36.923: I/Choreographer(1298): Skipped 64 frames!  The application may be doing too much work on its main thread.
+12-01 14:12:46.174: D/dalvikvm(1298): GC_FOR_ALLOC freed 1114K, 19% free 5710K/6980K, paused 205ms, total 236ms
+12-01 14:12:49.224: I/Choreographer(1298): Skipped 116 frames!  The application may be doing too much work on its main thread.
+12-01 14:12:50.744: I/Choreographer(1298): Skipped 95 frames!  The application may be doing too much work on its main thread.
+12-01 14:12:52.964: I/dalvikvm(1298): Jit: resizing JitTable from 4096 to 8192
+12-01 14:12:54.974: I/System.out(1298): 3
+12-01 14:12:56.014: I/Choreographer(1298): Skipped 35 frames!  The application may be doing too much work on its main thread.
+12-01 14:13:00.464: I/Choreographer(1298): Skipped 33 frames!  The application may be doing too much work on its main thread.
+12-01 14:13:02.114: I/Choreographer(1298): Skipped 36 frames!  The application may be doing too much work on its main thread.
+12-01 14:13:03.214: I/TestRunner(1298): finished: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:13:03.224: I/TestRunner(1298): passed: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:13:03.294: I/TestRunner(1298): started: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:13:03.354: E/dalvikvm(1298): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:13:05.604: D/dalvikvm(1298): GC_FOR_ALLOC freed 1107K, 19% free 5672K/6980K, paused 751ms, total 769ms
+12-01 14:13:21.934: D/dalvikvm(1298): GC_FOR_ALLOC freed 614K, 13% free 6115K/6980K, paused 223ms, total 254ms
+12-01 14:13:23.354: I/Choreographer(1298): Skipped 205 frames!  The application may be doing too much work on its main thread.
+12-01 14:13:38.943: I/TestRunner(1298): failed: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:13:38.954: I/TestRunner(1298): ----- begin exception -----
+12-01 14:13:39.004: I/TestRunner(1298): junit.framework.ComparisonFailure: Matrix activity is launched expected:<....matrixcalculator.Ma[trix]> but was:<....matrixcalculator.Ma[in]>
+12-01 14:13:39.004: I/TestRunner(1298):   at junit.framework.Assert.assertEquals(Assert.java:85)
+12-01 14:13:39.004: I/TestRunner(1298):   at com.jayway.android.robotium.solo.Asserter.assertCurrentActivity(Asserter.java:59)
+12-01 14:13:39.004: I/TestRunner(1298):   at com.jayway.android.robotium.solo.Solo.assertCurrentActivity(Solo.java:651)
+12-01 14:13:39.004: I/TestRunner(1298):   at com.example.matrixcalculator.test.TestCases.testFSMTC02(MainTest.scala:181)
+12-01 14:13:39.004: I/TestRunner(1298):   at java.lang.reflect.Method.invokeNative(Native Method)
+12-01 14:13:39.004: I/TestRunner(1298):   at java.lang.reflect.Method.invoke(Method.java:525)
+12-01 14:13:39.004: I/TestRunner(1298):   at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)
+12-01 14:13:39.004: I/TestRunner(1298):   at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)
+12-01 14:13:39.004: I/TestRunner(1298):   at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)
+12-01 14:13:39.004: I/TestRunner(1298):   at junit.framework.TestCase.runBare(TestCase.java:134)
+12-01 14:13:39.004: I/TestRunner(1298):   at junit.framework.TestResult$1.protect(TestResult.java:115)
+12-01 14:13:39.004: I/TestRunner(1298):   at junit.framework.TestResult.runProtected(TestResult.java:133)
+12-01 14:13:39.004: I/TestRunner(1298):   at junit.framework.TestResult.run(TestResult.java:118)
+12-01 14:13:39.004: I/TestRunner(1298):   at junit.framework.TestCase.run(TestCase.java:124)
+12-01 14:13:39.004: I/TestRunner(1298):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+12-01 14:13:39.004: I/TestRunner(1298):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+12-01 14:13:39.004: I/TestRunner(1298):   at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)
+12-01 14:13:39.004: I/TestRunner(1298):   at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)
+12-01 14:13:39.004: I/TestRunner(1298): ----- end exception -----
+12-01 14:13:39.134: I/TestRunner(1298): finished: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:13:39.204: I/TestRunner(1298): started: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:13:39.254: E/dalvikvm(1298): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:13:42.874: I/Choreographer(1298): Skipped 89 frames!  The application may be doing too much work on its main thread.
+12-01 14:13:54.034: D/dalvikvm(1298): GC_FOR_ALLOC freed 1229K, 19% free 6091K/7476K, paused 177ms, total 207ms
+12-01 14:13:55.783: I/Choreographer(1298): Skipped 149 frames!  The application may be doing too much work on its main thread.
+12-01 14:13:57.004: I/Choreographer(1298): Skipped 37 frames!  The application may be doing too much work on its main thread.
+12-01 14:13:57.624: I/Choreographer(1298): Skipped 33 frames!  The application may be doing too much work on its main thread.
+12-01 14:14:00.614: I/System.out(1298): 3
+12-01 14:14:01.753: I/Choreographer(1298): Skipped 38 frames!  The application may be doing too much work on its main thread.
+12-01 14:14:05.215: I/Choreographer(1298): Skipped 42 frames!  The application may be doing too much work on its main thread.
+12-01 14:14:05.605: I/Choreographer(1298): Skipped 36 frames!  The application may be doing too much work on its main thread.
+12-01 14:14:05.855: I/TestRunner(1298): finished: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:14:05.855: I/TestRunner(1298): passed: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:14:05.894: I/TestRunner(1298): started: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:14:05.944: E/dalvikvm(1298): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:14:09.034: I/Choreographer(1298): Skipped 62 frames!  The application may be doing too much work on its main thread.
+12-01 14:14:21.204: D/dalvikvm(1298): GC_FOR_ALLOC freed 1219K, 19% free 6068K/7476K, paused 248ms, total 264ms
+12-01 14:14:24.544: I/Choreographer(1298): Skipped 138 frames!  The application may be doing too much work on its main thread.
+12-01 14:14:25.584: I/Choreographer(1298): Skipped 50 frames!  The application may be doing too much work on its main thread.
+12-01 14:14:27.494: I/Choreographer(1298): Skipped 41 frames!  The application may be doing too much work on its main thread.
+12-01 14:14:30.344: D/dalvikvm(1298): GC_FOR_ALLOC freed 542K, 17% free 6242K/7476K, paused 264ms, total 283ms
+12-01 14:14:32.223: I/Choreographer(1298): Skipped 53 frames!  The application may be doing too much work on its main thread.
+12-01 14:14:32.644: I/TestRunner(1298): finished: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:14:32.654: I/TestRunner(1298): passed: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:18.194: D/dalvikvm(1434): GC_FOR_ALLOC freed 441K, 19% free 2579K/3176K, paused 58ms, total 62ms
+12-01 14:16:18.623: D/dalvikvm(1434): GC_FOR_ALLOC freed 311K, 15% free 2780K/3248K, paused 41ms, total 44ms
+12-01 14:16:19.174: D/dalvikvm(1434): GC_FOR_ALLOC freed 655K, 24% free 2636K/3448K, paused 42ms, total 44ms
+12-01 14:16:19.633: D/dalvikvm(1434): GC_FOR_ALLOC freed 571K, 26% free 2576K/3448K, paused 41ms, total 43ms
+12-01 14:16:20.164: D/dalvikvm(1434): GC_FOR_ALLOC freed 356K, 21% free 2732K/3448K, paused 79ms, total 80ms
+12-01 14:16:20.683: D/dalvikvm(1434): GC_FOR_ALLOC freed 619K, 24% free 2624K/3448K, paused 43ms, total 46ms
+12-01 14:16:21.134: D/dalvikvm(1434): GC_FOR_ALLOC freed 312K, 19% free 2823K/3448K, paused 44ms, total 45ms
+12-01 14:16:21.593: D/dalvikvm(1434): GC_FOR_ALLOC freed 623K, 23% free 2712K/3492K, paused 44ms, total 45ms
+12-01 14:16:22.064: D/dalvikvm(1434): GC_FOR_ALLOC freed 624K, 26% free 2599K/3492K, paused 42ms, total 46ms
+12-01 14:16:22.613: D/dalvikvm(1434): GC_FOR_ALLOC freed 339K, 21% free 2772K/3492K, paused 41ms, total 43ms
+12-01 14:16:23.154: D/dalvikvm(1434): GC_FOR_ALLOC freed 640K, 25% free 2643K/3492K, paused 44ms, total 48ms
+12-01 14:16:23.593: D/dalvikvm(1434): GC_FOR_ALLOC freed 312K, 19% free 2842K/3492K, paused 42ms, total 45ms
+12-01 14:16:24.084: D/dalvikvm(1434): GC_FOR_ALLOC freed 641K, 23% free 2714K/3512K, paused 44ms, total 46ms
+12-01 14:16:24.544: D/dalvikvm(1434): GC_FOR_ALLOC freed 571K, 25% free 2654K/3512K, paused 43ms, total 47ms
+12-01 14:16:24.994: D/dalvikvm(1434): GC_FOR_ALLOC freed 363K, 21% free 2803K/3512K, paused 44ms, total 46ms
+12-01 14:16:25.474: D/dalvikvm(1434): GC_FOR_ALLOC freed 628K, 24% free 2686K/3512K, paused 45ms, total 46ms
+12-01 14:16:25.924: D/dalvikvm(1434): GC_FOR_ALLOC freed 319K, 19% free 2878K/3512K, paused 44ms, total 45ms
+12-01 14:16:26.404: D/dalvikvm(1434): GC_FOR_ALLOC freed 629K, 23% free 2761K/3548K, paused 44ms, total 46ms
+12-01 14:16:26.864: D/dalvikvm(1434): GC_FOR_ALLOC freed 621K, 26% free 2652K/3548K, paused 49ms, total 51ms
+12-01 14:16:27.294: D/dalvikvm(1434): GC_FOR_ALLOC freed 311K, 20% free 2852K/3548K, paused 42ms, total 44ms
+12-01 14:16:27.734: D/dalvikvm(1434): GC_FOR_ALLOC freed 619K, 23% free 2745K/3548K, paused 46ms, total 47ms
+12-01 14:16:28.204: D/dalvikvm(1434): GC_FOR_ALLOC freed 577K, 25% free 2680K/3548K, paused 45ms, total 47ms
+12-01 14:16:28.633: D/dalvikvm(1434): GC_FOR_ALLOC freed 358K, 21% free 2833K/3548K, paused 46ms, total 49ms
+12-01 14:16:29.114: D/dalvikvm(1434): GC_FOR_ALLOC freed 629K, 24% free 2716K/3548K, paused 46ms, total 47ms
+12-01 14:16:29.553: D/dalvikvm(1434): GC_FOR_ALLOC freed 573K, 26% free 2653K/3548K, paused 43ms, total 46ms
+12-01 14:16:30.014: D/dalvikvm(1434): GC_FOR_ALLOC freed 365K, 22% free 2800K/3548K, paused 44ms, total 46ms
+12-01 14:16:30.474: D/dalvikvm(1434): GC_FOR_ALLOC freed 620K, 25% free 2691K/3548K, paused 45ms, total 47ms
+12-01 14:16:30.904: D/dalvikvm(1434): GC_FOR_ALLOC freed 313K, 19% free 2889K/3548K, paused 50ms, total 52ms
+12-01 14:16:31.364: D/dalvikvm(1434): GC_FOR_ALLOC freed 626K, 23% free 2774K/3560K, paused 46ms, total 51ms
+12-01 14:16:31.834: D/dalvikvm(1434): GC_FOR_ALLOC freed 575K, 24% free 2711K/3560K, paused 45ms, total 48ms
+12-01 14:16:32.274: D/dalvikvm(1434): GC_FOR_ALLOC freed 360K, 20% free 2862K/3560K, paused 45ms, total 47ms
+12-01 14:16:32.724: D/dalvikvm(1434): GC_FOR_ALLOC freed 625K, 23% free 2749K/3560K, paused 44ms, total 48ms
+12-01 14:16:33.224: D/dalvikvm(1434): GC_FOR_ALLOC freed 360K, 19% free 2900K/3560K, paused 46ms, total 54ms
+12-01 14:16:33.764: D/dalvikvm(1434): GC_FOR_ALLOC freed 690K, 24% free 2717K/3568K, paused 45ms, total 51ms
+12-01 14:16:34.264: D/dalvikvm(1434): GC_FOR_ALLOC freed 335K, 19% free 2894K/3568K, paused 46ms, total 51ms
+12-01 14:16:34.874: D/dalvikvm(1434): GC_FOR_ALLOC freed 673K, 24% free 2732K/3568K, paused 49ms, total 51ms
+12-01 14:16:35.384: D/dalvikvm(1434): GC_FOR_ALLOC freed 340K, 19% free 2904K/3568K, paused 47ms, total 49ms
+12-01 14:16:35.884: D/dalvikvm(1434): GC_FOR_ALLOC freed 641K, 23% free 2770K/3572K, paused 46ms, total 48ms
+12-01 14:16:36.334: D/dalvikvm(1434): GC_FOR_ALLOC freed 309K, 17% free 2972K/3572K, paused 47ms, total 48ms
+12-01 14:16:36.814: D/dalvikvm(1434): GC_FOR_ALLOC freed 621K, 22% free 2857K/3640K, paused 48ms, total 50ms
+12-01 14:16:37.294: D/dalvikvm(1434): GC_FOR_ALLOC freed 624K, 25% free 2744K/3640K, paused 45ms, total 47ms
+12-01 14:16:37.744: D/dalvikvm(1434): GC_FOR_ALLOC freed 324K, 20% free 2932K/3640K, paused 44ms, total 50ms
+12-01 14:16:38.224: D/dalvikvm(1434): GC_FOR_ALLOC freed 621K, 23% free 2822K/3640K, paused 48ms, total 58ms
+12-01 14:16:38.673: D/dalvikvm(1434): GC_FOR_ALLOC freed 573K, 25% free 2761K/3640K, paused 45ms, total 48ms
+12-01 14:16:39.144: D/dalvikvm(1434): GC_FOR_ALLOC freed 363K, 21% free 2910K/3640K, paused 46ms, total 48ms
+12-01 14:16:39.633: E/dalvikvm(1434): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:16:39.653: E/dalvikvm(1434): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:16:39.653: E/dalvikvm(1434): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:16:39.675: E/dalvikvm(1434): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:16:39.693: E/dalvikvm(1434): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:16:39.703: E/dalvikvm(1434): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:16:39.713: E/dalvikvm(1434): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:16:39.723: E/dalvikvm(1434): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:16:39.733: E/dalvikvm(1434): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:16:39.764: I/TestRunner(1434): started: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:39.816: E/dalvikvm(1434): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:16:39.824: I/TestRunner(1434): finished: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:39.824: I/TestRunner(1434): passed: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:39.887: I/TestRunner(1434): started: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:39.934: E/dalvikvm(1434): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:16:39.934: I/TestRunner(1434): finished: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:39.944: I/TestRunner(1434): passed: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:40.076: I/TestRunner(1434): started: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:40.143: E/dalvikvm(1434): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:16:40.143: I/TestRunner(1434): finished: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:40.143: I/TestRunner(1434): passed: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:40.234: I/TestRunner(1434): started: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:40.304: E/dalvikvm(1434): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:16:40.314: I/TestRunner(1434): finished: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:40.324: I/TestRunner(1434): passed: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:40.395: I/TestRunner(1434): started: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:40.474: E/dalvikvm(1434): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:16:40.474: I/TestRunner(1434): finished: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:40.474: I/TestRunner(1434): passed: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:40.556: I/TestRunner(1434): started: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:40.593: E/dalvikvm(1434): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:16:40.603: I/TestRunner(1434): finished: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:40.603: I/TestRunner(1434): passed: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:40.696: I/TestRunner(1434): started: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:40.756: E/dalvikvm(1434): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:16:40.764: I/TestRunner(1434): finished: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:40.764: I/TestRunner(1434): passed: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:40.849: I/TestRunner(1434): started: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:40.914: E/dalvikvm(1434): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:16:40.914: I/TestRunner(1434): finished: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:40.924: I/TestRunner(1434): passed: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:40.979: I/TestRunner(1434): started: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:41.074: E/dalvikvm(1434): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:16:41.084: I/TestRunner(1434): finished: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:41.084: I/TestRunner(1434): passed: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:16:44.613: D/dalvikvm(1459): GC_FOR_ALLOC freed 405K, 18% free 2615K/3176K, paused 57ms, total 60ms
+12-01 14:16:45.074: D/dalvikvm(1459): GC_FOR_ALLOC freed 311K, 15% free 2816K/3284K, paused 48ms, total 49ms
+12-01 14:16:45.613: D/dalvikvm(1459): GC_FOR_ALLOC freed 655K, 24% free 2671K/3484K, paused 43ms, total 44ms
+12-01 14:16:46.104: D/dalvikvm(1459): GC_FOR_ALLOC freed 571K, 26% free 2612K/3484K, paused 48ms, total 49ms
+12-01 14:16:46.553: D/dalvikvm(1459): GC_FOR_ALLOC freed 356K, 21% free 2767K/3484K, paused 41ms, total 42ms
+12-01 14:16:47.144: D/dalvikvm(1459): GC_FOR_ALLOC freed 620K, 24% free 2659K/3484K, paused 42ms, total 44ms
+12-01 14:16:47.623: D/dalvikvm(1459): GC_FOR_ALLOC freed 574K, 26% free 2596K/3484K, paused 41ms, total 43ms
+12-01 14:16:48.083: D/dalvikvm(1459): GC_FOR_ALLOC freed 361K, 22% free 2747K/3484K, paused 42ms, total 50ms
+12-01 14:16:48.553: D/dalvikvm(1459): GC_FOR_ALLOC freed 624K, 25% free 2634K/3484K, paused 43ms, total 45ms
+12-01 14:16:49.114: D/dalvikvm(1459): GC_FOR_ALLOC freed 339K, 20% free 2807K/3484K, paused 48ms, total 50ms
+12-01 14:16:49.653: D/dalvikvm(1459): GC_FOR_ALLOC freed 640K, 24% free 2678K/3484K, paused 45ms, total 47ms
+12-01 14:16:50.114: D/dalvikvm(1459): GC_FOR_ALLOC freed 574K, 25% free 2616K/3484K, paused 49ms, total 50ms
+12-01 14:16:50.614: D/dalvikvm(1459): GC_FOR_ALLOC freed 379K, 22% free 2748K/3484K, paused 43ms, total 45ms
+12-01 14:16:51.114: D/dalvikvm(1459): GC_FOR_ALLOC freed 623K, 25% free 2637K/3484K, paused 44ms, total 53ms
+12-01 14:16:51.543: D/dalvikvm(1459): GC_FOR_ALLOC freed 310K, 19% free 2838K/3484K, paused 42ms, total 45ms
+12-01 14:16:52.034: D/dalvikvm(1459): GC_FOR_ALLOC freed 628K, 23% free 2722K/3508K, paused 45ms, total 49ms
+12-01 14:16:52.514: D/dalvikvm(1459): GC_FOR_ALLOC freed 581K, 25% free 2652K/3508K, paused 44ms, total 45ms
+12-01 14:16:53.024: D/dalvikvm(1459): GC_FOR_ALLOC freed 367K, 21% free 2797K/3508K, paused 42ms, total 44ms
+12-01 14:16:53.495: D/dalvikvm(1459): GC_FOR_ALLOC freed 621K, 24% free 2688K/3508K, paused 43ms, total 46ms
+12-01 14:16:53.934: D/dalvikvm(1459): GC_FOR_ALLOC freed 311K, 18% free 2888K/3508K, paused 45ms, total 46ms
+12-01 14:16:54.394: D/dalvikvm(1459): GC_FOR_ALLOC freed 619K, 22% free 2778K/3556K, paused 45ms, total 47ms
+12-01 14:16:54.874: D/dalvikvm(1459): GC_FOR_ALLOC freed 625K, 26% free 2665K/3556K, paused 45ms, total 47ms
+12-01 14:16:55.314: D/dalvikvm(1459): GC_FOR_ALLOC freed 310K, 20% free 2866K/3556K, paused 49ms, total 50ms
+12-01 14:16:55.785: D/dalvikvm(1459): GC_FOR_ALLOC freed 629K, 23% free 2749K/3556K, paused 44ms, total 50ms
+12-01 14:16:56.264: D/dalvikvm(1459): GC_FOR_ALLOC freed 573K, 25% free 2687K/3556K, paused 43ms, total 46ms
+12-01 14:16:56.724: D/dalvikvm(1459): GC_FOR_ALLOC freed 365K, 21% free 2834K/3556K, paused 45ms, total 49ms
+12-01 14:16:57.194: D/dalvikvm(1459): GC_FOR_ALLOC freed 620K, 24% free 2725K/3556K, paused 49ms, total 51ms
+12-01 14:16:57.644: D/dalvikvm(1459): GC_FOR_ALLOC freed 575K, 26% free 2661K/3556K, paused 43ms, total 45ms
+12-01 14:16:58.103: D/dalvikvm(1459): GC_FOR_ALLOC freed 364K, 22% free 2809K/3556K, paused 45ms, total 46ms
+12-01 14:16:58.593: D/dalvikvm(1459): GC_FOR_ALLOC freed 623K, 25% free 2697K/3556K, paused 45ms, total 49ms
+12-01 14:16:59.034: D/dalvikvm(1459): GC_FOR_ALLOC freed 312K, 19% free 2897K/3556K, paused 46ms, total 48ms
+12-01 14:16:59.495: D/dalvikvm(1459): GC_FOR_ALLOC freed 625K, 23% free 2779K/3564K, paused 47ms, total 48ms
+12-01 14:16:59.996: D/dalvikvm(1459): GC_FOR_ALLOC freed 360K, 18% free 2931K/3564K, paused 45ms, total 48ms
+12-01 14:17:01.184: D/dalvikvm(1459): GC_FOR_ALLOC freed 690K, 24% free 2749K/3600K, paused 47ms, total 53ms
+12-01 14:17:01.673: D/dalvikvm(1459): GC_FOR_ALLOC freed 335K, 19% free 2925K/3600K, paused 46ms, total 49ms
+12-01 14:17:02.274: D/dalvikvm(1459): GC_FOR_ALLOC freed 673K, 24% free 2764K/3600K, paused 54ms, total 56ms
+12-01 14:17:02.734: D/dalvikvm(1459): GC_FOR_ALLOC freed 340K, 19% free 2935K/3600K, paused 48ms, total 50ms
+12-01 14:17:03.214: D/dalvikvm(1459): GC_FOR_ALLOC freed 641K, 23% free 2801K/3604K, paused 47ms, total 49ms
+12-01 14:17:03.663: D/dalvikvm(1459): GC_FOR_ALLOC freed 571K, 24% free 2742K/3604K, paused 46ms, total 48ms
+12-01 14:17:04.124: D/dalvikvm(1459): GC_FOR_ALLOC freed 359K, 20% free 2895K/3604K, paused 46ms, total 47ms
+12-01 14:17:04.613: D/dalvikvm(1459): GC_FOR_ALLOC freed 630K, 23% free 2776K/3604K, paused 46ms, total 48ms
+12-01 14:17:05.094: D/dalvikvm(1459): GC_FOR_ALLOC freed 318K, 18% free 2970K/3604K, paused 63ms, total 65ms
+12-01 14:17:05.553: D/dalvikvm(1459): GC_FOR_ALLOC freed 621K, 22% free 2858K/3640K, paused 48ms, total 51ms
+12-01 14:17:06.043: D/dalvikvm(1459): GC_FOR_ALLOC freed 619K, 25% free 2749K/3640K, paused 47ms, total 50ms
+12-01 14:17:06.494: D/dalvikvm(1459): GC_FOR_ALLOC freed 316K, 20% free 2944K/3640K, paused 47ms, total 49ms
+12-01 14:17:06.964: E/dalvikvm(1459): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:17:06.974: E/dalvikvm(1459): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:17:06.984: E/dalvikvm(1459): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:17:06.994: E/dalvikvm(1459): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:17:07.004: E/dalvikvm(1459): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:17:07.024: E/dalvikvm(1459): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:17:07.034: E/dalvikvm(1459): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:17:07.054: E/dalvikvm(1459): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:17:07.054: E/dalvikvm(1459): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:17:07.084: I/TestRunner(1459): started: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:17:07.125: E/dalvikvm(1459): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:17:10.065: D/dalvikvm(1459): GC_FOR_ALLOC freed 530K, 20% free 2919K/3640K, paused 355ms, total 401ms
+12-01 14:17:10.065: I/dalvikvm-heap(1459): Grow heap (frag case) to 3.097MB for 100240-byte allocation
+12-01 14:17:10.355: D/dalvikvm(1459): GC_FOR_ALLOC freed <1K, 20% free 3017K/3740K, paused 286ms, total 286ms
+12-01 14:17:10.706: D/dalvikvm(1459): GC_FOR_ALLOC freed 1K, 20% free 3016K/3740K, paused 336ms, total 341ms
+12-01 14:17:10.784: I/dalvikvm-heap(1459): Grow heap (frag case) to 4.171MB for 1127536-byte allocation
+12-01 14:17:10.954: D/dalvikvm(1459): GC_FOR_ALLOC freed <1K, 16% free 4116K/4844K, paused 165ms, total 165ms
+12-01 14:17:11.154: D/dalvikvm(1459): GC_FOR_ALLOC freed 3K, 13% free 4227K/4844K, paused 45ms, total 55ms
+12-01 14:17:11.384: D/dalvikvm(1459): GC_FOR_ALLOC freed 12K, 12% free 4376K/4956K, paused 47ms, total 48ms
+12-01 14:17:11.994: I/Choreographer(1459): Skipped 44 frames!  The application may be doing too much work on its main thread.
+12-01 14:17:12.024: D/gralloc_goldfish(1459): Emulator without GPU emulation detected.
+12-01 14:17:12.593: I/Choreographer(1459): Skipped 34 frames!  The application may be doing too much work on its main thread.
+12-01 14:17:22.424: D/dalvikvm(1459): GC_FOR_ALLOC freed 384K, 11% free 4620K/5160K, paused 126ms, total 138ms
+12-01 14:17:24.073: D/AndroidRuntime(1459): Shutting down VM
+12-01 14:17:24.073: W/dalvikvm(1459): threadid=1: thread exiting with uncaught exception (group=0x41465700)
+12-01 14:17:24.244: E/AndroidRuntime(1459): FATAL EXCEPTION: main
+12-01 14:17:24.244: E/AndroidRuntime(1459): java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.matrixcalculator/com.example.matrixcalculator.Matrix}: java.lang.IllegalArgumentException: requirement failed
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2211)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2261)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at android.app.ActivityThread.access$600(ActivityThread.java:141)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at android.os.Handler.dispatchMessage(Handler.java:99)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at android.os.Looper.loop(Looper.java:137)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at android.app.ActivityThread.main(ActivityThread.java:5103)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at java.lang.reflect.Method.invokeNative(Native Method)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at java.lang.reflect.Method.invoke(Method.java:525)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:737)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:553)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at dalvik.system.NativeStart.main(Native Method)
+12-01 14:17:24.244: E/AndroidRuntime(1459): Caused by: java.lang.IllegalArgumentException: requirement failed
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at scala.Predef$.require(Predef.scala:221)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at com.example.matrixcalculator.Functions$class.setTextInvisible(Functions.scala:64)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at com.example.matrixcalculator.Matrix.setTextInvisible(Matrix.scala:25)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at com.example.matrixcalculator.Matrix$$anonfun$setMatrixInvisible$1$$anonfun$apply$mcVI$sp$1.apply$mcVI$sp(Matrix.scala:129)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at scala.collection.immutable.Range.foreach$mVc$sp(Range.scala:141)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at com.example.matrixcalculator.Matrix$$anonfun$setMatrixInvisible$1.apply$mcVI$sp(Matrix.scala:121)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at scala.collection.immutable.Range.foreach$mVc$sp(Range.scala:141)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at com.example.matrixcalculator.Matrix.setMatrixInvisible(Matrix.scala:120)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at com.example.matrixcalculator.Matrix.onCreate(Matrix.scala:58)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at android.app.Activity.performCreate(Activity.java:5133)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2175)
+12-01 14:17:24.244: E/AndroidRuntime(1459):   ... 11 more
+12-01 14:47:06.024: D/dalvikvm(1649): GC_FOR_ALLOC freed 436K, 19% free 2584K/3176K, paused 58ms, total 61ms
+12-01 14:47:06.464: D/dalvikvm(1649): GC_FOR_ALLOC freed 310K, 15% free 2785K/3252K, paused 41ms, total 42ms
+12-01 14:47:07.004: D/dalvikvm(1649): GC_FOR_ALLOC freed 655K, 24% free 2640K/3452K, paused 42ms, total 46ms
+12-01 14:47:07.484: D/dalvikvm(1649): GC_FOR_ALLOC freed 570K, 26% free 2582K/3452K, paused 41ms, total 43ms
+12-01 14:47:07.933: D/dalvikvm(1649): GC_FOR_ALLOC freed 356K, 21% free 2737K/3452K, paused 44ms, total 47ms
+12-01 14:47:08.454: D/dalvikvm(1649): GC_FOR_ALLOC freed 619K, 24% free 2629K/3452K, paused 43ms, total 45ms
+12-01 14:47:08.904: D/dalvikvm(1649): GC_FOR_ALLOC freed 312K, 19% free 2829K/3452K, paused 43ms, total 45ms
+12-01 14:47:09.374: D/dalvikvm(1649): GC_FOR_ALLOC freed 622K, 23% free 2716K/3496K, paused 43ms, total 44ms
+12-01 14:47:09.843: D/dalvikvm(1649): GC_FOR_ALLOC freed 624K, 26% free 2603K/3496K, paused 42ms, total 45ms
+12-01 14:47:10.404: D/dalvikvm(1649): GC_FOR_ALLOC freed 338K, 21% free 2777K/3496K, paused 41ms, total 43ms
+12-01 14:47:10.924: D/dalvikvm(1649): GC_FOR_ALLOC freed 640K, 25% free 2648K/3496K, paused 42ms, total 46ms
+12-01 14:47:11.373: D/dalvikvm(1649): GC_FOR_ALLOC freed 312K, 19% free 2848K/3496K, paused 42ms, total 45ms
+12-01 14:47:11.843: D/dalvikvm(1649): GC_FOR_ALLOC freed 640K, 23% free 2718K/3516K, paused 45ms, total 48ms
+12-01 14:47:12.314: D/dalvikvm(1649): GC_FOR_ALLOC freed 571K, 25% free 2658K/3516K, paused 44ms, total 46ms
+12-01 14:47:12.763: D/dalvikvm(1649): GC_FOR_ALLOC freed 362K, 21% free 2807K/3516K, paused 42ms, total 47ms
+12-01 14:47:13.246: D/dalvikvm(1649): GC_FOR_ALLOC freed 627K, 24% free 2691K/3516K, paused 45ms, total 47ms
+12-01 14:47:13.704: D/dalvikvm(1649): GC_FOR_ALLOC freed 319K, 18% free 2884K/3516K, paused 42ms, total 47ms
+12-01 14:47:14.194: D/dalvikvm(1649): GC_FOR_ALLOC freed 628K, 23% free 2765K/3552K, paused 46ms, total 47ms
+12-01 14:47:14.654: D/dalvikvm(1649): GC_FOR_ALLOC freed 620K, 26% free 2656K/3552K, paused 43ms, total 44ms
+12-01 14:47:15.084: D/dalvikvm(1649): GC_FOR_ALLOC freed 311K, 20% free 2857K/3552K, paused 44ms, total 46ms
+12-01 14:47:15.544: D/dalvikvm(1649): GC_FOR_ALLOC freed 618K, 23% free 2750K/3552K, paused 45ms, total 48ms
+12-01 14:47:16.016: D/dalvikvm(1649): GC_FOR_ALLOC freed 576K, 25% free 2685K/3552K, paused 44ms, total 47ms
+12-01 14:47:16.454: D/dalvikvm(1649): GC_FOR_ALLOC freed 358K, 21% free 2839K/3552K, paused 44ms, total 46ms
+12-01 14:47:16.914: D/dalvikvm(1649): GC_FOR_ALLOC freed 628K, 24% free 2722K/3552K, paused 45ms, total 49ms
+12-01 14:47:17.374: D/dalvikvm(1649): GC_FOR_ALLOC freed 573K, 26% free 2661K/3552K, paused 42ms, total 44ms
+12-01 14:47:17.833: D/dalvikvm(1649): GC_FOR_ALLOC freed 365K, 21% free 2807K/3552K, paused 43ms, total 48ms
+12-01 14:47:18.294: D/dalvikvm(1649): GC_FOR_ALLOC freed 620K, 24% free 2699K/3552K, paused 45ms, total 47ms
+12-01 14:47:18.723: D/dalvikvm(1649): GC_FOR_ALLOC freed 313K, 19% free 2897K/3552K, paused 44ms, total 46ms
+12-01 14:47:19.176: D/dalvikvm(1649): GC_FOR_ALLOC freed 626K, 22% free 2783K/3568K, paused 46ms, total 50ms
+12-01 14:47:19.664: D/dalvikvm(1649): GC_FOR_ALLOC freed 623K, 26% free 2669K/3568K, paused 43ms, total 48ms
+12-01 14:47:20.094: D/dalvikvm(1649): GC_FOR_ALLOC freed 312K, 20% free 2869K/3568K, paused 43ms, total 45ms
+12-01 14:47:20.564: D/dalvikvm(1649): GC_FOR_ALLOC freed 625K, 23% free 2756K/3568K, paused 44ms, total 47ms
+12-01 14:47:21.054: D/dalvikvm(1649): GC_FOR_ALLOC freed 360K, 19% free 2908K/3568K, paused 46ms, total 48ms
+12-01 14:47:21.614: D/dalvikvm(1649): GC_FOR_ALLOC freed 690K, 24% free 2726K/3576K, paused 47ms, total 53ms
+12-01 14:47:22.104: D/dalvikvm(1649): GC_FOR_ALLOC freed 335K, 19% free 2902K/3576K, paused 46ms, total 48ms
+12-01 14:47:22.684: D/dalvikvm(1649): GC_FOR_ALLOC freed 673K, 24% free 2741K/3576K, paused 47ms, total 48ms
+12-01 14:47:23.144: D/dalvikvm(1649): GC_FOR_ALLOC freed 340K, 19% free 2913K/3576K, paused 48ms, total 49ms
+12-01 14:47:23.624: D/dalvikvm(1649): GC_FOR_ALLOC freed 640K, 23% free 2782K/3584K, paused 46ms, total 47ms
+12-01 14:47:24.094: D/dalvikvm(1649): GC_FOR_ALLOC freed 309K, 17% free 2985K/3584K, paused 47ms, total 49ms
+12-01 14:47:24.545: D/dalvikvm(1649): GC_FOR_ALLOC freed 620K, 22% free 2869K/3652K, paused 48ms, total 50ms
+12-01 14:47:25.024: D/dalvikvm(1649): GC_FOR_ALLOC freed 630K, 25% free 2751K/3652K, paused 47ms, total 49ms
+12-01 14:47:25.474: D/dalvikvm(1649): GC_FOR_ALLOC freed 318K, 20% free 2945K/3652K, paused 49ms, total 51ms
+12-01 14:47:25.944: D/dalvikvm(1649): GC_FOR_ALLOC freed 620K, 23% free 2836K/3652K, paused 46ms, total 53ms
+12-01 14:47:26.424: D/dalvikvm(1649): GC_FOR_ALLOC freed 572K, 24% free 2775K/3652K, paused 51ms, total 59ms
+12-01 14:47:26.883: D/dalvikvm(1649): GC_FOR_ALLOC freed 363K, 20% free 2924K/3652K, paused 47ms, total 49ms
+12-01 14:47:27.334: E/dalvikvm(1649): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:27.364: E/dalvikvm(1649): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:27.374: E/dalvikvm(1649): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:27.384: E/dalvikvm(1649): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:27.404: E/dalvikvm(1649): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:27.424: E/dalvikvm(1649): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:27.434: E/dalvikvm(1649): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:27.434: E/dalvikvm(1649): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:27.454: E/dalvikvm(1649): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:27.474: I/TestRunner(1649): started: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:27.534: E/dalvikvm(1649): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:27.534: I/TestRunner(1649): finished: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:27.544: I/TestRunner(1649): passed: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:27.607: I/TestRunner(1649): started: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:27.654: E/dalvikvm(1649): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:27.654: I/TestRunner(1649): finished: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:27.654: I/TestRunner(1649): passed: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:27.724: I/TestRunner(1649): started: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:27.773: E/dalvikvm(1649): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:27.773: I/TestRunner(1649): finished: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:27.783: I/TestRunner(1649): passed: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:27.852: I/TestRunner(1649): started: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:27.904: E/dalvikvm(1649): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:27.904: I/TestRunner(1649): finished: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:27.924: I/TestRunner(1649): passed: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:27.983: I/TestRunner(1649): started: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:28.054: E/dalvikvm(1649): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:28.054: I/TestRunner(1649): finished: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:28.064: I/TestRunner(1649): passed: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:28.124: I/TestRunner(1649): started: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:28.174: E/dalvikvm(1649): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:28.174: I/TestRunner(1649): finished: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:28.194: I/TestRunner(1649): passed: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:28.284: I/TestRunner(1649): started: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:28.323: E/dalvikvm(1649): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:28.323: I/TestRunner(1649): finished: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:28.334: I/TestRunner(1649): passed: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:28.424: I/TestRunner(1649): started: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:28.504: E/dalvikvm(1649): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:28.504: I/TestRunner(1649): finished: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:28.514: I/TestRunner(1649): passed: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:28.589: I/TestRunner(1649): started: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:28.664: E/dalvikvm(1649): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:28.664: I/TestRunner(1649): finished: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:28.674: I/TestRunner(1649): passed: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:32.634: D/dalvikvm(1674): GC_FOR_ALLOC freed 440K, 19% free 2580K/3176K, paused 61ms, total 65ms
+12-01 14:47:33.085: D/dalvikvm(1674): GC_FOR_ALLOC freed 310K, 15% free 2781K/3248K, paused 42ms, total 44ms
+12-01 14:47:33.624: D/dalvikvm(1674): GC_FOR_ALLOC freed 655K, 24% free 2636K/3448K, paused 43ms, total 45ms
+12-01 14:47:34.094: D/dalvikvm(1674): GC_FOR_ALLOC freed 570K, 26% free 2577K/3448K, paused 42ms, total 44ms
+12-01 14:47:34.674: D/dalvikvm(1674): GC_FOR_ALLOC freed 356K, 21% free 2732K/3448K, paused 154ms, total 155ms
+12-01 14:47:35.254: D/dalvikvm(1674): GC_FOR_ALLOC freed 619K, 24% free 2625K/3448K, paused 43ms, total 45ms
+12-01 14:47:35.704: D/dalvikvm(1674): GC_FOR_ALLOC freed 312K, 19% free 2824K/3448K, paused 41ms, total 43ms
+12-01 14:47:36.174: D/dalvikvm(1674): GC_FOR_ALLOC freed 622K, 23% free 2712K/3492K, paused 42ms, total 44ms
+12-01 14:47:36.654: D/dalvikvm(1674): GC_FOR_ALLOC freed 624K, 26% free 2600K/3492K, paused 42ms, total 44ms
+12-01 14:47:37.204: D/dalvikvm(1674): GC_FOR_ALLOC freed 338K, 21% free 2773K/3492K, paused 42ms, total 44ms
+12-01 14:47:37.753: D/dalvikvm(1674): GC_FOR_ALLOC freed 640K, 25% free 2644K/3492K, paused 44ms, total 46ms
+12-01 14:47:38.194: D/dalvikvm(1674): GC_FOR_ALLOC freed 312K, 19% free 2844K/3492K, paused 42ms, total 45ms
+12-01 14:47:38.723: D/dalvikvm(1674): GC_FOR_ALLOC freed 640K, 23% free 2714K/3512K, paused 43ms, total 46ms
+12-01 14:47:39.194: D/dalvikvm(1674): GC_FOR_ALLOC freed 571K, 25% free 2654K/3512K, paused 42ms, total 46ms
+12-01 14:47:39.655: D/dalvikvm(1674): GC_FOR_ALLOC freed 362K, 21% free 2804K/3512K, paused 43ms, total 45ms
+12-01 14:47:40.124: D/dalvikvm(1674): GC_FOR_ALLOC freed 628K, 24% free 2687K/3512K, paused 44ms, total 46ms
+12-01 14:47:40.584: D/dalvikvm(1674): GC_FOR_ALLOC freed 319K, 18% free 2880K/3512K, paused 49ms, total 51ms
+12-01 14:47:41.064: D/dalvikvm(1674): GC_FOR_ALLOC freed 628K, 23% free 2762K/3548K, paused 44ms, total 47ms
+12-01 14:47:41.534: D/dalvikvm(1674): GC_FOR_ALLOC freed 621K, 26% free 2653K/3548K, paused 46ms, total 48ms
+12-01 14:47:41.964: D/dalvikvm(1674): GC_FOR_ALLOC freed 311K, 20% free 2853K/3548K, paused 44ms, total 46ms
+12-01 14:47:42.424: D/dalvikvm(1674): GC_FOR_ALLOC freed 619K, 23% free 2746K/3548K, paused 44ms, total 46ms
+12-01 14:47:42.884: D/dalvikvm(1674): GC_FOR_ALLOC freed 576K, 25% free 2681K/3548K, paused 44ms, total 46ms
+12-01 14:47:43.324: D/dalvikvm(1674): GC_FOR_ALLOC freed 358K, 21% free 2835K/3548K, paused 43ms, total 47ms
+12-01 14:47:43.873: D/dalvikvm(1674): GC_FOR_ALLOC freed 628K, 24% free 2718K/3548K, paused 45ms, total 48ms
+12-01 14:47:44.314: D/dalvikvm(1674): GC_FOR_ALLOC freed 573K, 26% free 2657K/3548K, paused 44ms, total 47ms
+12-01 14:47:44.783: D/dalvikvm(1674): GC_FOR_ALLOC freed 365K, 21% free 2803K/3548K, paused 44ms, total 46ms
+12-01 14:47:45.254: D/dalvikvm(1674): GC_FOR_ALLOC freed 620K, 25% free 2695K/3548K, paused 43ms, total 45ms
+12-01 14:47:45.694: D/dalvikvm(1674): GC_FOR_ALLOC freed 313K, 19% free 2893K/3548K, paused 44ms, total 46ms
+12-01 14:47:46.144: D/dalvikvm(1674): GC_FOR_ALLOC freed 626K, 23% free 2779K/3564K, paused 45ms, total 49ms
+12-01 14:47:46.644: D/dalvikvm(1674): GC_FOR_ALLOC freed 621K, 26% free 2669K/3564K, paused 50ms, total 53ms
+12-01 14:47:47.074: D/dalvikvm(1674): GC_FOR_ALLOC freed 314K, 20% free 2867K/3564K, paused 45ms, total 46ms
+12-01 14:47:47.534: D/dalvikvm(1674): GC_FOR_ALLOC freed 625K, 23% free 2753K/3564K, paused 44ms, total 48ms
+12-01 14:47:48.034: D/dalvikvm(1674): GC_FOR_ALLOC freed 360K, 19% free 2905K/3564K, paused 46ms, total 54ms
+12-01 14:47:48.614: D/dalvikvm(1674): GC_FOR_ALLOC freed 690K, 24% free 2726K/3576K, paused 47ms, total 49ms
+12-01 14:47:49.084: D/dalvikvm(1674): GC_FOR_ALLOC freed 335K, 19% free 2902K/3576K, paused 46ms, total 49ms
+12-01 14:47:49.684: D/dalvikvm(1674): GC_FOR_ALLOC freed 673K, 24% free 2741K/3576K, paused 51ms, total 53ms
+12-01 14:47:50.154: D/dalvikvm(1674): GC_FOR_ALLOC freed 340K, 19% free 2913K/3576K, paused 46ms, total 47ms
+12-01 14:47:50.634: D/dalvikvm(1674): GC_FOR_ALLOC freed 640K, 23% free 2778K/3580K, paused 46ms, total 50ms
+12-01 14:47:51.074: D/dalvikvm(1674): GC_FOR_ALLOC freed 309K, 17% free 2981K/3580K, paused 46ms, total 48ms
+12-01 14:47:51.534: D/dalvikvm(1674): GC_FOR_ALLOC freed 621K, 22% free 2870K/3652K, paused 47ms, total 48ms
+12-01 14:47:52.024: D/dalvikvm(1674): GC_FOR_ALLOC freed 630K, 25% free 2751K/3652K, paused 47ms, total 49ms
+12-01 14:47:52.464: D/dalvikvm(1674): GC_FOR_ALLOC freed 318K, 20% free 2945K/3652K, paused 44ms, total 54ms
+12-01 14:47:52.946: D/dalvikvm(1674): GC_FOR_ALLOC freed 620K, 23% free 2836K/3652K, paused 49ms, total 61ms
+12-01 14:47:53.414: D/dalvikvm(1674): GC_FOR_ALLOC freed 572K, 24% free 2775K/3652K, paused 47ms, total 51ms
+12-01 14:47:53.874: D/dalvikvm(1674): GC_FOR_ALLOC freed 363K, 20% free 2924K/3652K, paused 47ms, total 48ms
+12-01 14:47:54.353: E/dalvikvm(1674): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:54.374: E/dalvikvm(1674): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:54.374: E/dalvikvm(1674): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:54.394: E/dalvikvm(1674): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:54.394: E/dalvikvm(1674): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:54.414: E/dalvikvm(1674): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:54.434: E/dalvikvm(1674): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:54.443: E/dalvikvm(1674): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:54.443: E/dalvikvm(1674): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:54.474: I/TestRunner(1674): started: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:47:54.515: E/dalvikvm(1674): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:47:57.424: D/dalvikvm(1674): GC_FOR_ALLOC freed 529K, 21% free 2907K/3652K, paused 321ms, total 322ms
+12-01 14:47:57.946: D/dalvikvm(1674): GC_FOR_ALLOC freed 2K, 21% free 2918K/3652K, paused 311ms, total 379ms
+12-01 14:47:57.946: I/dalvikvm-heap(1674): Grow heap (frag case) to 3.095MB for 100240-byte allocation
+12-01 14:47:58.174: D/dalvikvm(1674): GC_FOR_ALLOC freed 1K, 20% free 3015K/3752K, paused 149ms, total 149ms
+12-01 14:47:58.224: D/dalvikvm(1674): GC_FOR_ALLOC freed <1K, 20% free 3015K/3752K, paused 43ms, total 45ms
+12-01 14:47:58.244: I/dalvikvm-heap(1674): Grow heap (frag case) to 4.169MB for 1127536-byte allocation
+12-01 14:47:58.324: D/dalvikvm(1674): GC_FOR_ALLOC freed <1K, 16% free 4116K/4856K, paused 42ms, total 45ms
+12-01 14:47:58.504: D/dalvikvm(1674): GC_FOR_ALLOC freed 3K, 13% free 4254K/4856K, paused 44ms, total 46ms
+12-01 14:47:58.753: D/dalvikvm(1674): GC_FOR_ALLOC freed 13K, 12% free 4417K/4984K, paused 53ms, total 55ms
+12-01 14:47:59.324: I/Choreographer(1674): Skipped 41 frames!  The application may be doing too much work on its main thread.
+12-01 14:47:59.354: D/gralloc_goldfish(1674): Emulator without GPU emulation detected.
+12-01 14:48:00.214: I/Choreographer(1674): Skipped 64 frames!  The application may be doing too much work on its main thread.
+12-01 14:48:10.354: D/dalvikvm(1674): GC_FOR_ALLOC freed 398K, 11% free 4658K/5212K, paused 117ms, total 134ms
+12-01 14:48:14.254: I/Choreographer(1674): Skipped 190 frames!  The application may be doing too much work on its main thread.
+12-01 14:48:14.884: I/Choreographer(1674): Skipped 42 frames!  The application may be doing too much work on its main thread.
+12-01 14:48:15.524: I/Choreographer(1674): Skipped 32 frames!  The application may be doing too much work on its main thread.
+12-01 14:48:18.894: D/dalvikvm(1674): GC_FOR_ALLOC freed 459K, 12% free 4916K/5532K, paused 66ms, total 68ms
+12-01 14:48:19.504: I/dalvikvm(1674): Could not find method scala.collection.parallel.IterableSplitter.toString, referenced from method scala.collection.parallel.ParIterableLike$Accessor$class.toString
+12-01 14:48:19.504: W/dalvikvm(1674): VFY: unable to resolve interface method 13470: Lscala/collection/parallel/IterableSplitter;.toString ()Ljava/lang/String;
+12-01 14:48:19.504: D/dalvikvm(1674): VFY: replacing opcode 0x72 at 0x001b
+12-01 14:48:19.554: I/System.out(1674): 3
+12-01 14:48:20.954: I/Choreographer(1674): Skipped 44 frames!  The application may be doing too much work on its main thread.
+12-01 14:48:23.874: I/Choreographer(1674): Skipped 41 frames!  The application may be doing too much work on its main thread.
+12-01 14:48:24.394: I/TestRunner(1674): finished: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:48:24.394: I/TestRunner(1674): passed: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:48:24.434: I/TestRunner(1674): started: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:48:24.495: E/dalvikvm(1674): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:48:27.024: I/Choreographer(1674): Skipped 32 frames!  The application may be doing too much work on its main thread.
+12-01 14:48:28.214: I/Choreographer(1674): Skipped 105 frames!  The application may be doing too much work on its main thread.
+12-01 14:48:30.284: I/Choreographer(1674): Skipped 42 frames!  The application may be doing too much work on its main thread.
+12-01 14:48:36.733: D/dalvikvm(1674): GC_FOR_ALLOC freed 485K, 11% free 5230K/5872K, paused 77ms, total 96ms
+12-01 14:48:38.814: I/TestRunner(1674): finished: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:48:38.814: I/TestRunner(1674): passed: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:48:38.896: I/TestRunner(1674): started: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:48:38.944: E/dalvikvm(1674): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:48:42.404: I/Choreographer(1674): Skipped 52 frames!  The application may be doing too much work on its main thread.
+12-01 14:48:51.135: D/AndroidRuntime(1674): Shutting down VM
+12-01 14:48:51.174: W/dalvikvm(1674): threadid=1: thread exiting with uncaught exception (group=0x41465700)
+12-01 14:48:51.314: E/AndroidRuntime(1674): FATAL EXCEPTION: main
+12-01 14:48:51.314: E/AndroidRuntime(1674): java.lang.AssertionError: assertion failed
+12-01 14:48:51.314: E/AndroidRuntime(1674):   at scala.Predef$.assert(Predef.scala:165)
+12-01 14:48:51.314: E/AndroidRuntime(1674):   at scala.Predef$Ensuring$.ensuring$extension0(Predef.scala:242)
+12-01 14:48:51.314: E/AndroidRuntime(1674):   at com.example.matrixcalculator.Functions$class.getTextValue(Functions.scala:37)
+12-01 14:48:51.314: E/AndroidRuntime(1674):   at com.example.matrixcalculator.Main.getTextValue(Main.scala:26)
+12-01 14:48:51.314: E/AndroidRuntime(1674):   at com.example.matrixcalculator.Main$$anon$1.onClick(Main.scala:49)
+12-01 14:48:51.314: E/AndroidRuntime(1674):   at android.view.View.performClick(View.java:4240)
+12-01 14:48:51.314: E/AndroidRuntime(1674):   at android.view.View$PerformClick.run(View.java:17721)
+12-01 14:48:51.314: E/AndroidRuntime(1674):   at android.os.Handler.handleCallback(Handler.java:730)
+12-01 14:48:51.314: E/AndroidRuntime(1674):   at android.os.Handler.dispatchMessage(Handler.java:92)
+12-01 14:48:51.314: E/AndroidRuntime(1674):   at android.os.Looper.loop(Looper.java:137)
+12-01 14:48:51.314: E/AndroidRuntime(1674):   at android.app.ActivityThread.main(ActivityThread.java:5103)
+12-01 14:48:51.314: E/AndroidRuntime(1674):   at java.lang.reflect.Method.invokeNative(Native Method)
+12-01 14:48:51.314: E/AndroidRuntime(1674):   at java.lang.reflect.Method.invoke(Method.java:525)
+12-01 14:48:51.314: E/AndroidRuntime(1674):   at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:737)
+12-01 14:48:51.314: E/AndroidRuntime(1674):   at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:553)
+12-01 14:48:51.314: E/AndroidRuntime(1674):   at dalvik.system.NativeStart.main(Native Method)
+12-01 14:57:52.034: D/dalvikvm(1756): GC_FOR_ALLOC freed 405K, 18% free 2615K/3176K, paused 58ms, total 61ms
+12-01 14:57:52.494: D/dalvikvm(1756): GC_FOR_ALLOC freed 310K, 15% free 2817K/3284K, paused 41ms, total 43ms
+12-01 14:57:53.044: D/dalvikvm(1756): GC_FOR_ALLOC freed 655K, 24% free 2672K/3484K, paused 44ms, total 46ms
+12-01 14:57:53.534: D/dalvikvm(1756): GC_FOR_ALLOC freed 570K, 25% free 2613K/3484K, paused 43ms, total 44ms
+12-01 14:57:53.984: D/dalvikvm(1756): GC_FOR_ALLOC freed 356K, 21% free 2768K/3484K, paused 42ms, total 45ms
+12-01 14:57:54.564: D/dalvikvm(1756): GC_FOR_ALLOC freed 619K, 24% free 2661K/3484K, paused 42ms, total 44ms
+12-01 14:57:55.085: D/dalvikvm(1756): GC_FOR_ALLOC freed 574K, 26% free 2599K/3484K, paused 45ms, total 46ms
+12-01 14:57:55.534: D/dalvikvm(1756): GC_FOR_ALLOC freed 361K, 22% free 2749K/3484K, paused 41ms, total 43ms
+12-01 14:57:56.004: D/dalvikvm(1756): GC_FOR_ALLOC freed 624K, 25% free 2636K/3484K, paused 45ms, total 47ms
+12-01 14:57:56.574: D/dalvikvm(1756): GC_FOR_ALLOC freed 338K, 20% free 2810K/3484K, paused 43ms, total 44ms
+12-01 14:57:57.104: D/dalvikvm(1756): GC_FOR_ALLOC freed 640K, 24% free 2681K/3484K, paused 44ms, total 46ms
+12-01 14:57:57.564: D/dalvikvm(1756): GC_FOR_ALLOC freed 574K, 25% free 2619K/3484K, paused 44ms, total 46ms
+12-01 14:57:58.064: D/dalvikvm(1756): GC_FOR_ALLOC freed 378K, 21% free 2752K/3484K, paused 42ms, total 44ms
+12-01 14:57:58.564: D/dalvikvm(1756): GC_FOR_ALLOC freed 623K, 25% free 2641K/3484K, paused 42ms, total 44ms
+12-01 14:57:59.004: D/dalvikvm(1756): GC_FOR_ALLOC freed 310K, 19% free 2842K/3484K, paused 44ms, total 46ms
+12-01 14:57:59.494: D/dalvikvm(1756): GC_FOR_ALLOC freed 627K, 23% free 2727K/3512K, paused 45ms, total 47ms
+12-01 14:57:59.964: D/dalvikvm(1756): GC_FOR_ALLOC freed 581K, 25% free 2657K/3512K, paused 44ms, total 46ms
+12-01 14:58:01.104: D/dalvikvm(1756): GC_FOR_ALLOC freed 367K, 21% free 2802K/3512K, paused 43ms, total 45ms
+12-01 14:58:01.554: D/dalvikvm(1756): GC_FOR_ALLOC freed 620K, 24% free 2693K/3512K, paused 43ms, total 46ms
+12-01 14:58:02.004: D/dalvikvm(1756): GC_FOR_ALLOC freed 311K, 18% free 2894K/3512K, paused 45ms, total 48ms
+12-01 14:58:02.454: D/dalvikvm(1756): GC_FOR_ALLOC freed 619K, 22% free 2787K/3564K, paused 46ms, total 48ms
+12-01 14:58:02.944: D/dalvikvm(1756): GC_FOR_ALLOC freed 624K, 25% free 2674K/3564K, paused 43ms, total 46ms
+12-01 14:58:03.364: D/dalvikvm(1756): GC_FOR_ALLOC freed 310K, 20% free 2875K/3564K, paused 44ms, total 46ms
+12-01 14:58:03.864: D/dalvikvm(1756): GC_FOR_ALLOC freed 628K, 23% free 2758K/3564K, paused 44ms, total 48ms
+12-01 14:58:04.345: D/dalvikvm(1756): GC_FOR_ALLOC freed 573K, 25% free 2697K/3564K, paused 43ms, total 47ms
+12-01 14:58:04.804: D/dalvikvm(1756): GC_FOR_ALLOC freed 365K, 21% free 2843K/3564K, paused 43ms, total 46ms
+12-01 14:58:05.325: D/dalvikvm(1756): GC_FOR_ALLOC freed 619K, 24% free 2735K/3564K, paused 45ms, total 47ms
+12-01 14:58:05.794: D/dalvikvm(1756): GC_FOR_ALLOC freed 575K, 26% free 2672K/3564K, paused 42ms, total 44ms
+12-01 14:58:06.254: D/dalvikvm(1756): GC_FOR_ALLOC freed 364K, 21% free 2819K/3564K, paused 44ms, total 47ms
+12-01 14:58:06.734: D/dalvikvm(1756): GC_FOR_ALLOC freed 623K, 25% free 2708K/3564K, paused 45ms, total 50ms
+12-01 14:58:07.183: D/dalvikvm(1756): GC_FOR_ALLOC freed 311K, 19% free 2908K/3564K, paused 45ms, total 48ms
+12-01 14:58:07.634: D/dalvikvm(1756): GC_FOR_ALLOC freed 625K, 22% free 2792K/3576K, paused 46ms, total 48ms
+12-01 14:58:08.133: D/dalvikvm(1756): GC_FOR_ALLOC freed 360K, 18% free 2943K/3576K, paused 46ms, total 47ms
+12-01 14:58:08.694: D/dalvikvm(1756): GC_FOR_ALLOC freed 690K, 24% free 2760K/3612K, paused 47ms, total 53ms
+12-01 14:58:09.173: D/dalvikvm(1756): GC_FOR_ALLOC freed 335K, 19% free 2937K/3612K, paused 46ms, total 50ms
+12-01 14:58:09.754: D/dalvikvm(1756): GC_FOR_ALLOC freed 673K, 24% free 2775K/3612K, paused 46ms, total 47ms
+12-01 14:58:10.223: D/dalvikvm(1756): GC_FOR_ALLOC freed 340K, 19% free 2947K/3612K, paused 47ms, total 50ms
+12-01 14:58:10.704: D/dalvikvm(1756): GC_FOR_ALLOC freed 641K, 23% free 2813K/3616K, paused 47ms, total 49ms
+12-01 14:58:11.193: D/dalvikvm(1756): GC_FOR_ALLOC freed 571K, 24% free 2754K/3616K, paused 50ms, total 51ms
+12-01 14:58:11.644: D/dalvikvm(1756): GC_FOR_ALLOC freed 359K, 20% free 2907K/3616K, paused 48ms, total 49ms
+12-01 14:58:12.133: D/dalvikvm(1756): GC_FOR_ALLOC freed 630K, 23% free 2789K/3616K, paused 47ms, total 51ms
+12-01 14:58:12.584: D/dalvikvm(1756): GC_FOR_ALLOC freed 318K, 18% free 2982K/3616K, paused 46ms, total 48ms
+12-01 14:58:13.034: D/dalvikvm(1756): GC_FOR_ALLOC freed 620K, 22% free 2870K/3652K, paused 50ms, total 54ms
+12-01 14:58:13.584: D/dalvikvm(1756): GC_FOR_ALLOC freed 618K, 25% free 2763K/3652K, paused 48ms, total 53ms
+12-01 14:58:14.054: D/dalvikvm(1756): GC_FOR_ALLOC freed 316K, 19% free 2958K/3652K, paused 47ms, total 49ms
+12-01 14:58:14.524: E/dalvikvm(1756): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:14.524: E/dalvikvm(1756): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:14.544: E/dalvikvm(1756): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:14.554: E/dalvikvm(1756): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:14.564: E/dalvikvm(1756): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:14.574: E/dalvikvm(1756): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:14.584: E/dalvikvm(1756): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:14.605: E/dalvikvm(1756): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:14.605: E/dalvikvm(1756): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:14.634: I/TestRunner(1756): started: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:14.694: E/dalvikvm(1756): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:14.694: I/TestRunner(1756): finished: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:14.704: I/TestRunner(1756): passed: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:14.761: I/TestRunner(1756): started: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:14.824: E/dalvikvm(1756): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:14.824: I/TestRunner(1756): finished: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:14.834: I/TestRunner(1756): passed: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:14.903: I/TestRunner(1756): started: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:14.954: E/dalvikvm(1756): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:14.964: I/TestRunner(1756): finished: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:14.964: I/TestRunner(1756): passed: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:15.037: I/TestRunner(1756): started: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:15.084: E/dalvikvm(1756): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:15.094: I/TestRunner(1756): finished: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:15.094: I/TestRunner(1756): passed: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:15.164: I/TestRunner(1756): started: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:15.234: E/dalvikvm(1756): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:15.234: I/TestRunner(1756): finished: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:15.243: I/TestRunner(1756): passed: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:15.307: I/TestRunner(1756): started: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:15.364: E/dalvikvm(1756): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:15.364: I/TestRunner(1756): finished: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:15.364: I/TestRunner(1756): passed: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:15.451: I/TestRunner(1756): started: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:15.514: E/dalvikvm(1756): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:15.514: I/TestRunner(1756): finished: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:15.526: I/TestRunner(1756): passed: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:15.596: I/TestRunner(1756): started: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:15.664: E/dalvikvm(1756): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:15.664: I/TestRunner(1756): finished: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:15.674: I/TestRunner(1756): passed: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:15.784: I/TestRunner(1756): started: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:15.854: E/dalvikvm(1756): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:15.854: I/TestRunner(1756): finished: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:15.864: I/TestRunner(1756): passed: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:19.474: D/dalvikvm(1781): GC_FOR_ALLOC freed 408K, 18% free 2612K/3176K, paused 66ms, total 69ms
+12-01 14:58:19.934: D/dalvikvm(1781): GC_FOR_ALLOC freed 310K, 15% free 2812K/3280K, paused 41ms, total 43ms
+12-01 14:58:20.474: D/dalvikvm(1781): GC_FOR_ALLOC freed 655K, 24% free 2668K/3480K, paused 45ms, total 47ms
+12-01 14:58:20.964: D/dalvikvm(1781): GC_FOR_ALLOC freed 570K, 26% free 2609K/3480K, paused 43ms, total 44ms
+12-01 14:58:21.404: D/dalvikvm(1781): GC_FOR_ALLOC freed 356K, 21% free 2764K/3480K, paused 41ms, total 42ms
+12-01 14:58:21.944: D/dalvikvm(1781): GC_FOR_ALLOC freed 619K, 24% free 2657K/3480K, paused 44ms, total 46ms
+12-01 14:58:22.404: D/dalvikvm(1781): GC_FOR_ALLOC freed 574K, 26% free 2594K/3480K, paused 41ms, total 43ms
+12-01 14:58:22.854: D/dalvikvm(1781): GC_FOR_ALLOC freed 361K, 22% free 2745K/3480K, paused 41ms, total 43ms
+12-01 14:58:23.325: D/dalvikvm(1781): GC_FOR_ALLOC freed 624K, 25% free 2633K/3480K, paused 43ms, total 45ms
+12-01 14:58:23.874: D/dalvikvm(1781): GC_FOR_ALLOC freed 338K, 20% free 2806K/3480K, paused 42ms, total 43ms
+12-01 14:58:24.404: D/dalvikvm(1781): GC_FOR_ALLOC freed 640K, 24% free 2677K/3480K, paused 43ms, total 46ms
+12-01 14:58:24.864: D/dalvikvm(1781): GC_FOR_ALLOC freed 574K, 25% free 2615K/3480K, paused 42ms, total 46ms
+12-01 14:58:25.414: D/dalvikvm(1781): GC_FOR_ALLOC freed 378K, 22% free 2748K/3480K, paused 43ms, total 45ms
+12-01 14:58:25.904: D/dalvikvm(1781): GC_FOR_ALLOC freed 623K, 25% free 2637K/3480K, paused 45ms, total 47ms
+12-01 14:58:26.344: D/dalvikvm(1781): GC_FOR_ALLOC freed 310K, 19% free 2838K/3480K, paused 43ms, total 46ms
+12-01 14:58:26.814: D/dalvikvm(1781): GC_FOR_ALLOC freed 627K, 23% free 2723K/3508K, paused 43ms, total 45ms
+12-01 14:58:27.284: D/dalvikvm(1781): GC_FOR_ALLOC freed 581K, 25% free 2653K/3508K, paused 44ms, total 46ms
+12-01 14:58:27.794: D/dalvikvm(1781): GC_FOR_ALLOC freed 366K, 21% free 2798K/3508K, paused 45ms, total 47ms
+12-01 14:58:28.314: D/dalvikvm(1781): GC_FOR_ALLOC freed 620K, 24% free 2689K/3508K, paused 43ms, total 47ms
+12-01 14:58:28.754: D/dalvikvm(1781): GC_FOR_ALLOC freed 311K, 18% free 2890K/3508K, paused 44ms, total 45ms
+12-01 14:58:29.213: D/dalvikvm(1781): GC_FOR_ALLOC freed 619K, 22% free 2782K/3560K, paused 46ms, total 47ms
+12-01 14:58:29.704: D/dalvikvm(1781): GC_FOR_ALLOC freed 624K, 26% free 2669K/3560K, paused 45ms, total 47ms
+12-01 14:58:30.143: D/dalvikvm(1781): GC_FOR_ALLOC freed 310K, 20% free 2871K/3560K, paused 44ms, total 46ms
+12-01 14:58:30.624: D/dalvikvm(1781): GC_FOR_ALLOC freed 628K, 23% free 2755K/3560K, paused 43ms, total 58ms
+12-01 14:58:31.083: D/dalvikvm(1781): GC_FOR_ALLOC freed 573K, 25% free 2693K/3560K, paused 45ms, total 47ms
+12-01 14:58:31.574: D/dalvikvm(1781): GC_FOR_ALLOC freed 365K, 21% free 2840K/3560K, paused 70ms, total 72ms
+12-01 14:58:32.044: D/dalvikvm(1781): GC_FOR_ALLOC freed 620K, 24% free 2732K/3560K, paused 45ms, total 47ms
+12-01 14:58:32.754: D/dalvikvm(1781): GC_FOR_ALLOC freed 575K, 26% free 2668K/3560K, paused 66ms, total 76ms
+12-01 14:58:33.245: D/dalvikvm(1781): GC_FOR_ALLOC freed 364K, 21% free 2816K/3560K, paused 42ms, total 46ms
+12-01 14:58:33.754: D/dalvikvm(1781): GC_FOR_ALLOC freed 623K, 25% free 2704K/3560K, paused 43ms, total 47ms
+12-01 14:58:34.223: D/dalvikvm(1781): GC_FOR_ALLOC freed 312K, 19% free 2904K/3560K, paused 43ms, total 46ms
+12-01 14:58:34.675: D/dalvikvm(1781): GC_FOR_ALLOC freed 625K, 22% free 2787K/3572K, paused 46ms, total 47ms
+12-01 14:58:35.175: D/dalvikvm(1781): GC_FOR_ALLOC freed 360K, 18% free 2939K/3572K, paused 44ms, total 48ms
+12-01 14:58:35.714: D/dalvikvm(1781): GC_FOR_ALLOC freed 690K, 24% free 2756K/3608K, paused 46ms, total 50ms
+12-01 14:58:36.205: D/dalvikvm(1781): GC_FOR_ALLOC freed 335K, 19% free 2933K/3608K, paused 44ms, total 48ms
+12-01 14:58:36.764: D/dalvikvm(1781): GC_FOR_ALLOC freed 673K, 24% free 2771K/3608K, paused 45ms, total 47ms
+12-01 14:58:37.236: D/dalvikvm(1781): GC_FOR_ALLOC freed 340K, 19% free 2943K/3608K, paused 46ms, total 48ms
+12-01 14:58:37.714: D/dalvikvm(1781): GC_FOR_ALLOC freed 640K, 23% free 2809K/3612K, paused 46ms, total 48ms
+12-01 14:58:38.165: D/dalvikvm(1781): GC_FOR_ALLOC freed 570K, 24% free 2750K/3612K, paused 47ms, total 48ms
+12-01 14:58:38.623: D/dalvikvm(1781): GC_FOR_ALLOC freed 359K, 20% free 2903K/3612K, paused 45ms, total 49ms
+12-01 14:58:39.133: D/dalvikvm(1781): GC_FOR_ALLOC freed 630K, 23% free 2784K/3612K, paused 92ms, total 94ms
+12-01 14:58:39.584: D/dalvikvm(1781): GC_FOR_ALLOC freed 318K, 18% free 2978K/3612K, paused 46ms, total 48ms
+12-01 14:58:40.014: D/dalvikvm(1781): GC_FOR_ALLOC freed 620K, 22% free 2865K/3648K, paused 46ms, total 51ms
+12-01 14:58:40.505: D/dalvikvm(1781): GC_FOR_ALLOC freed 618K, 25% free 2758K/3648K, paused 45ms, total 56ms
+12-01 14:58:40.954: D/dalvikvm(1781): GC_FOR_ALLOC freed 316K, 20% free 2954K/3648K, paused 46ms, total 48ms
+12-01 14:58:41.414: E/dalvikvm(1781): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:41.434: E/dalvikvm(1781): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:41.434: E/dalvikvm(1781): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:41.454: E/dalvikvm(1781): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:41.464: E/dalvikvm(1781): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:41.485: E/dalvikvm(1781): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:41.494: E/dalvikvm(1781): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:41.504: E/dalvikvm(1781): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:41.514: E/dalvikvm(1781): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:41.544: I/TestRunner(1781): started: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:58:41.594: E/dalvikvm(1781): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:58:44.644: D/dalvikvm(1781): GC_FOR_ALLOC freed 530K, 20% free 2919K/3648K, paused 356ms, total 429ms
+12-01 14:58:44.644: I/dalvikvm-heap(1781): Grow heap (frag case) to 3.097MB for 100240-byte allocation
+12-01 14:58:45.014: D/dalvikvm(1781): GC_FOR_ALLOC freed <1K, 20% free 3017K/3748K, paused 282ms, total 282ms
+12-01 14:58:45.364: D/dalvikvm(1781): GC_FOR_ALLOC freed <1K, 20% free 3018K/3748K, paused 308ms, total 343ms
+12-01 14:58:45.384: I/dalvikvm-heap(1781): Grow heap (frag case) to 4.172MB for 1127536-byte allocation
+12-01 14:58:45.454: D/dalvikvm(1781): GC_FOR_ALLOC freed <1K, 16% free 4119K/4852K, paused 66ms, total 66ms
+12-01 14:58:45.674: D/dalvikvm(1781): GC_FOR_ALLOC freed 6K, 13% free 4254K/4852K, paused 45ms, total 49ms
+12-01 14:58:46.464: I/Choreographer(1781): Skipped 43 frames!  The application may be doing too much work on its main thread.
+12-01 14:58:46.484: D/gralloc_goldfish(1781): Emulator without GPU emulation detected.
+12-01 14:58:47.093: I/Choreographer(1781): Skipped 37 frames!  The application may be doing too much work on its main thread.
+12-01 14:58:47.654: D/dalvikvm(1781): GC_FOR_ALLOC freed 25K, 11% free 4470K/4996K, paused 417ms, total 489ms
+12-01 14:58:58.054: D/dalvikvm(1781): GC_FOR_ALLOC freed 413K, 11% free 4715K/5284K, paused 134ms, total 148ms
+12-01 14:59:01.634: I/Choreographer(1781): Skipped 174 frames!  The application may be doing too much work on its main thread.
+12-01 14:59:02.254: I/Choreographer(1781): Skipped 40 frames!  The application may be doing too much work on its main thread.
+12-01 14:59:02.894: I/Choreographer(1781): Skipped 32 frames!  The application may be doing too much work on its main thread.
+12-01 14:59:06.675: D/dalvikvm(1781): GC_FOR_ALLOC freed 477K, 12% free 4978K/5612K, paused 72ms, total 76ms
+12-01 14:59:07.044: I/dalvikvm(1781): Could not find method scala.collection.parallel.IterableSplitter.toString, referenced from method scala.collection.parallel.ParIterableLike$Accessor$class.toString
+12-01 14:59:07.044: W/dalvikvm(1781): VFY: unable to resolve interface method 13470: Lscala/collection/parallel/IterableSplitter;.toString ()Ljava/lang/String;
+12-01 14:59:07.044: D/dalvikvm(1781): VFY: replacing opcode 0x72 at 0x001b
+12-01 14:59:07.093: I/System.out(1781): 3
+12-01 14:59:08.474: I/Choreographer(1781): Skipped 42 frames!  The application may be doing too much work on its main thread.
+12-01 14:59:11.754: I/TestRunner(1781): finished: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:59:11.764: I/TestRunner(1781): passed: testADTC01(com.example.matrixcalculator.test.TestCases)
+12-01 14:59:11.814: I/TestRunner(1781): started: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:59:11.854: E/dalvikvm(1781): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:59:15.224: I/Choreographer(1781): Skipped 91 frames!  The application may be doing too much work on its main thread.
+12-01 14:59:25.794: I/TestRunner(1781): finished: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:59:25.804: I/TestRunner(1781): passed: testADTC02(com.example.matrixcalculator.test.TestCases)
+12-01 14:59:25.865: I/TestRunner(1781): started: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:59:25.955: E/dalvikvm(1781): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:59:27.294: D/dalvikvm(1781): GC_FOR_ALLOC freed 498K, 11% free 5305K/5960K, paused 538ms, total 558ms
+12-01 14:59:29.534: I/Choreographer(1781): Skipped 31 frames!  The application may be doing too much work on its main thread.
+12-01 14:59:40.083: I/TestRunner(1781): finished: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:59:40.093: I/TestRunner(1781): passed: testADTC03(com.example.matrixcalculator.test.TestCases)
+12-01 14:59:40.143: I/TestRunner(1781): started: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 14:59:40.204: E/dalvikvm(1781): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 14:59:43.014: I/Choreographer(1781): Skipped 30 frames!  The application may be doing too much work on its main thread.
+12-01 14:59:43.724: I/Choreographer(1781): Skipped 61 frames!  The application may be doing too much work on its main thread.
+12-01 14:59:55.183: D/dalvikvm(1781): GC_FOR_ALLOC freed 869K, 17% free 5370K/6396K, paused 158ms, total 175ms
+12-01 14:59:57.494: I/Choreographer(1781): Skipped 160 frames!  The application may be doing too much work on its main thread.
+12-01 14:59:58.524: I/Choreographer(1781): Skipped 34 frames!  The application may be doing too much work on its main thread.
+12-01 15:00:04.354: I/TestRunner(1781): finished: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 15:00:04.364: I/TestRunner(1781): passed: testADTC04(com.example.matrixcalculator.test.TestCases)
+12-01 15:00:04.404: I/TestRunner(1781): started: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 15:00:04.464: E/dalvikvm(1781): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 15:00:04.914: I/Choreographer(1781): Skipped 30 frames!  The application may be doing too much work on its main thread.
+12-01 15:00:07.754: I/Choreographer(1781): Skipped 74 frames!  The application may be doing too much work on its main thread.
+12-01 15:00:08.506: I/Choreographer(1781): Skipped 56 frames!  The application may be doing too much work on its main thread.
+12-01 15:00:18.414: D/dalvikvm(1781): GC_FOR_ALLOC freed 670K, 13% free 5658K/6484K, paused 158ms, total 176ms
+12-01 15:00:21.063: I/Choreographer(1781): Skipped 116 frames!  The application may be doing too much work on its main thread.
+12-01 15:00:22.454: I/Choreographer(1781): Skipped 48 frames!  The application may be doing too much work on its main thread.
+12-01 15:00:23.334: I/Choreographer(1781): Skipped 31 frames!  The application may be doing too much work on its main thread.
+12-01 15:00:26.934: I/Choreographer(1781): Skipped 54 frames!  The application may be doing too much work on its main thread.
+12-01 15:00:27.334: I/TestRunner(1781): finished: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 15:00:27.344: I/TestRunner(1781): passed: testADTC05(com.example.matrixcalculator.test.TestCases)
+12-01 15:00:27.394: I/TestRunner(1781): started: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 15:00:27.434: E/dalvikvm(1781): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 15:00:28.635: W/IInputConnectionWrapper(1781): showStatusIcon on inactive InputConnection
+12-01 15:00:29.983: D/dalvikvm(1781): GREF has increased to 201
+12-01 15:00:30.184: I/Choreographer(1781): Skipped 156 frames!  The application may be doing too much work on its main thread.
+12-01 15:00:30.824: I/Choreographer(1781): Skipped 61 frames!  The application may be doing too much work on its main thread.
+12-01 15:00:38.384: D/dalvikvm(1781): GC_FOR_ALLOC freed 1053K, 18% free 5659K/6868K, paused 108ms, total 137ms
+12-01 15:00:42.784: I/dalvikvm(1781): Jit: resizing JitTable from 4096 to 8192
+12-01 15:00:43.425: I/Choreographer(1781): Skipped 117 frames!  The application may be doing too much work on its main thread.
+12-01 15:00:44.525: I/Choreographer(1781): Skipped 42 frames!  The application may be doing too much work on its main thread.
+12-01 15:00:46.324: I/Choreographer(1781): Skipped 40 frames!  The application may be doing too much work on its main thread.
+12-01 15:00:49.364: I/System.out(1781): 3
+12-01 15:00:50.744: I/Choreographer(1781): Skipped 40 frames!  The application may be doing too much work on its main thread.
+12-01 15:00:53.774: D/dalvikvm(1781): GC_FOR_ALLOC freed 1060K, 18% free 5651K/6868K, paused 554ms, total 557ms
+12-01 15:00:57.484: I/Choreographer(1781): Skipped 32 frames!  The application may be doing too much work on its main thread.
+12-01 15:00:58.554: I/TestRunner(1781): finished: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 15:00:58.554: I/TestRunner(1781): passed: testFSMTC01(com.example.matrixcalculator.test.TestCases)
+12-01 15:00:58.614: I/TestRunner(1781): started: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 15:00:58.653: E/dalvikvm(1781): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 15:01:01.973: I/Choreographer(1781): Skipped 74 frames!  The application may be doing too much work on its main thread.
+12-01 15:01:02.346: I/Choreographer(1781): Skipped 32 frames!  The application may be doing too much work on its main thread.
+12-01 15:01:16.384: D/dalvikvm(1781): GC_FOR_ALLOC freed 711K, 13% free 5990K/6868K, paused 204ms, total 233ms
+12-01 15:01:18.943: I/Choreographer(1781): Skipped 139 frames!  The application may be doing too much work on its main thread.
+12-01 15:01:20.234: I/Choreographer(1781): Skipped 58 frames!  The application may be doing too much work on its main thread.
+12-01 15:01:20.943: I/Choreographer(1781): Skipped 35 frames!  The application may be doing too much work on its main thread.
+12-01 15:01:34.963: I/TestRunner(1781): failed: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 15:01:34.974: I/TestRunner(1781): ----- begin exception -----
+12-01 15:01:35.053: I/TestRunner(1781): junit.framework.ComparisonFailure: Matrix activity is launched expected:<....matrixcalculator.Ma[trix]> but was:<....matrixcalculator.Ma[in]>
+12-01 15:01:35.053: I/TestRunner(1781):   at junit.framework.Assert.assertEquals(Assert.java:85)
+12-01 15:01:35.053: I/TestRunner(1781):   at com.jayway.android.robotium.solo.Asserter.assertCurrentActivity(Asserter.java:59)
+12-01 15:01:35.053: I/TestRunner(1781):   at com.jayway.android.robotium.solo.Solo.assertCurrentActivity(Solo.java:651)
+12-01 15:01:35.053: I/TestRunner(1781):   at com.example.matrixcalculator.test.TestCases.testFSMTC02(MainTest.scala:181)
+12-01 15:01:35.053: I/TestRunner(1781):   at java.lang.reflect.Method.invokeNative(Native Method)
+12-01 15:01:35.053: I/TestRunner(1781):   at java.lang.reflect.Method.invoke(Method.java:525)
+12-01 15:01:35.053: I/TestRunner(1781):   at android.test.InstrumentationTestCase.runMethod(InstrumentationTestCase.java:214)
+12-01 15:01:35.053: I/TestRunner(1781):   at android.test.InstrumentationTestCase.runTest(InstrumentationTestCase.java:199)
+12-01 15:01:35.053: I/TestRunner(1781):   at android.test.ActivityInstrumentationTestCase2.runTest(ActivityInstrumentationTestCase2.java:192)
+12-01 15:01:35.053: I/TestRunner(1781):   at junit.framework.TestCase.runBare(TestCase.java:134)
+12-01 15:01:35.053: I/TestRunner(1781):   at junit.framework.TestResult$1.protect(TestResult.java:115)
+12-01 15:01:35.053: I/TestRunner(1781):   at junit.framework.TestResult.runProtected(TestResult.java:133)
+12-01 15:01:35.053: I/TestRunner(1781):   at junit.framework.TestResult.run(TestResult.java:118)
+12-01 15:01:35.053: I/TestRunner(1781):   at junit.framework.TestCase.run(TestCase.java:124)
+12-01 15:01:35.053: I/TestRunner(1781):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+12-01 15:01:35.053: I/TestRunner(1781):   at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+12-01 15:01:35.053: I/TestRunner(1781):   at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)
+12-01 15:01:35.053: I/TestRunner(1781):   at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)
+12-01 15:01:35.053: I/TestRunner(1781): ----- end exception -----
+12-01 15:01:35.154: I/TestRunner(1781): finished: testFSMTC02(com.example.matrixcalculator.test.TestCases)
+12-01 15:01:35.214: I/TestRunner(1781): started: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 15:01:35.274: E/dalvikvm(1781): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 15:01:39.134: I/Choreographer(1781): Skipped 97 frames!  The application may be doing too much work on its main thread.
+12-01 15:01:39.953: I/Choreographer(1781): Skipped 35 frames!  The application may be doing too much work on its main thread.
+12-01 15:01:50.176: D/dalvikvm(1781): GC_FOR_ALLOC freed 1184K, 19% free 5971K/7312K, paused 245ms, total 289ms
+12-01 15:01:53.574: I/Choreographer(1781): Skipped 166 frames!  The application may be doing too much work on its main thread.
+12-01 15:01:54.104: I/Choreographer(1781): Skipped 33 frames!  The application may be doing too much work on its main thread.
+12-01 15:01:57.434: I/System.out(1781): 3
+12-01 15:01:58.724: I/Choreographer(1781): Skipped 43 frames!  The application may be doing too much work on its main thread.
+12-01 15:02:02.913: I/Choreographer(1781): Skipped 138 frames!  The application may be doing too much work on its main thread.
+12-01 15:02:03.134: I/TestRunner(1781): finished: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 15:02:03.134: I/TestRunner(1781): passed: testSDTC01(com.example.matrixcalculator.test.TestCases)
+12-01 15:02:03.184: I/TestRunner(1781): started: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 15:02:03.235: E/dalvikvm(1781): Unable to resolve Lcom/example/matrixcalculator/test/TestCases; annotation class 557
+12-01 15:02:03.493: I/Choreographer(1781): Skipped 54 frames!  The application may be doing too much work on its main thread.
+12-01 15:02:06.276: I/Choreographer(1781): Skipped 167 frames!  The application may be doing too much work on its main thread.
+12-01 15:02:06.724: I/Choreographer(1781): Skipped 39 frames!  The application may be doing too much work on its main thread.
+12-01 15:02:12.184: D/dalvikvm(1781): GC_FOR_ALLOC freed 1153K, 19% free 5975K/7312K, paused 105ms, total 111ms
+12-01 15:02:12.644: D/dalvikvm(1781): GC_FOR_ALLOC freed 134K, 20% free 5886K/7312K, paused 184ms, total 186ms
+12-01 15:02:12.644: I/dalvikvm-heap(1781): Grow heap (frag case) to 5.958MB for 61456-byte allocation
+12-01 15:02:12.754: D/dalvikvm(1781): GC_FOR_ALLOC freed 1K, 20% free 5945K/7376K, paused 110ms, total 110ms
+12-01 15:02:22.164: I/Choreographer(1781): Skipped 127 frames!  The application may be doing too much work on its main thread.
+12-01 15:02:23.754: I/Choreographer(1781): Skipped 103 frames!  The application may be doing too much work on its main thread.
+12-01 15:02:29.394: I/Choreographer(1781): Skipped 32 frames!  The application may be doing too much work on its main thread.
+12-01 15:02:30.224: I/TestRunner(1781): finished: testSDTC02(com.example.matrixcalculator.test.TestCases)
+12-01 15:02:30.224: I/TestRunner(1781): passed: testSDTC02(com.example.matrixcalculator.test.TestCases)

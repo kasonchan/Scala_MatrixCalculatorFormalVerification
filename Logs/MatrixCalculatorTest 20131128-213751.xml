@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="MatrixCalculatorTest" project="MatrixCalculatorTest" tests="9" started="9" failures="0" errors="0" ignored="0">
+  <testsuite name="Nexus [emulator-5554]" time="229.754">
+    <testsuite name="com.example.matrixcalculator.test.TestCases" time="229.754">
+      <testcase name="testADTC01 " classname="com.example.matrixcalculator.test.TestCases" time="30.583"/>
+      <testcase name="testADTC02 " classname="com.example.matrixcalculator.test.TestCases" time="13.566"/>
+      <testcase name="testADTC03 " classname="com.example.matrixcalculator.test.TestCases" time="13.944"/>
+      <testcase name="testADTC04 " classname="com.example.matrixcalculator.test.TestCases" time="24.738"/>
+      <testcase name="testADTC05 " classname="com.example.matrixcalculator.test.TestCases" time="23.061"/>
+      <testcase name="testFSMTC01 " classname="com.example.matrixcalculator.test.TestCases" time="29.695"/>
+      <testcase name="testFSMTC02 " classname="com.example.matrixcalculator.test.TestCases" time="39.523"/>
+      <testcase name="testSDTC01 " classname="com.example.matrixcalculator.test.TestCases" time="27.101"/>
+      <testcase name="testSDTC02 " classname="com.example.matrixcalculator.test.TestCases" time="27.543"/>
+    </testsuite>
+  </testsuite>
+</testrun>
